@@ -1,8 +1,10 @@
-import matplotlib.pylab as pl
-import numpy as np
 
 
 def plot_model(data, title=""):
+    import numpy as np
+    import matplotlib
+    import matplotlib.pylab as pl
+
     x = []
     lab = []
     for key, value in sorted(data.iteritems()):
@@ -16,6 +18,9 @@ def plot_model(data, title=""):
 
 
 def plot_plde(data, title=""):
+    import matplotlib
+    import matplotlib.pylab as pl
+    
     for col in data:
         pl.plot(data[col], label=col)
     pl.ylim((-0.1, 1.1))
