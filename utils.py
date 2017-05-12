@@ -1,4 +1,5 @@
-
+def aaa():
+    print(123)
 
 def plot_model(data, title=""):
     import numpy as np
@@ -7,7 +8,7 @@ def plot_model(data, title=""):
 
     x = []
     lab = []
-    for key, value in sorted(data.iteritems()):
+    for key, value in sorted(data.items()):
         lab.append(key)
         x.append(value)
 
