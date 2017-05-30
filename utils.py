@@ -42,7 +42,7 @@ def get_edges(target, act, inh):
     return res
 
 
-def voting_rule(act, inh):
+def voting_rule(act, inh, strongInhibition = False):
     import itertools
     """
     Returns "voting" boolean logic expression for given list of activators and inhibitors. 
@@ -55,7 +55,7 @@ def voting_rule(act, inh):
     for case in itertools.product([0, 1], repeat=actLen + inhLen):
         actLevel = sum(case[0:actLen])
         inhLevel = sum(case[actLen:])
-        if actLevel > 0 and actLevel >= inhLevel:
+        if actLevel > 0 and (actLevel >= inhLevel and not strongInhibition or actLevel > inhLevel and strongInhibition) :
             rules.append(case)
 
     res = ""
