@@ -1,13 +1,13 @@
 type,path
-pos,PKD -| SSH -| ROCK -> PKD
-pos,PKD -| SSH -> Coronin -| ROCK -> PKD
-neg,PKD -> PAK -| RhoA -> ROCK -> PKD
 pos,SSH -> Coronin -> SSH
-neg,Thymosin -| Profilin -| Arp2_3 -> Cofilin -| Thymosin
+pos,SSH -> Coronin -| ROCK -> PKD -| SSH
+pos,SSH -| ROCK -> PKD -| SSH
+neg,RhoA -> ROCK -> PKD -> PAK -| RhoA
+neg,CP -| Dia1 -> Profilin -| Arp2_3 -> Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP
+pos,CP -| Dia1 -> Profilin -| Arp2_3 -> CP
+pos,Thymosin -| Arp2_3 -> Cofilin -| Thymosin
+pos,Thymosin -| WASP -> Arp2_3 -> Cofilin -| Thymosin
 neg,Thymosin -| WASP -> Profilin -| Arp2_3 -> Cofilin -| Thymosin
 pos,Thymosin -| WASP -| Thymosin
-neg,Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Profilin -| Arp2_3 -> Cofilin -| Thymosin
-pos,Thymosin -| WASP -> Arp2_3 -> Cofilin -| Thymosin
 pos,Thymosin -| Cofilin -| Thymosin
-pos,Thymosin -| Arp2_3 -> Cofilin -| Thymosin
-pos,Arp2_3 -> CP -| Dia1 -> Profilin -| Arp2_3
+neg,Thymosin -| Profilin -| Arp2_3 -> Cofilin -| Thymosin
