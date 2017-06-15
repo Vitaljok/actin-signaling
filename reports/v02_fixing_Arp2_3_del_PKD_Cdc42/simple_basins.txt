@@ -1,0 +1,179 @@
+                     count        pct
+cycle_Actin_BR_norm                  
+1                      678  66.210938
+0                      346  33.789062
+
+
+
+                     count        pct
+cycle_Actin_ST_norm                  
+1                      830  81.054688
+0                      194  18.945312
+
+
+
+                   count        pct
+cycle_Arp2_3_norm                  
+1                    678  66.210938
+0                    346  33.789062
+
+
+
+               count        pct
+cycle_CP_norm                  
+1                527  51.464844
+0                497  48.535156
+
+
+
+                  count    pct
+cycle_Cdc42_norm              
+0                  1024  100.0
+
+
+
+                    count        pct
+cycle_Cofilin_norm                  
+1                     548  53.515625
+01                    241  23.535156
+0                     235  22.949219
+
+
+
+                    count        pct
+cycle_Coronin_norm                  
+1                     678  66.210938
+01                    314  30.664062
+0                      32   3.125000
+
+
+
+                      count        pct
+cycle_Cortactin_norm                  
+1                       678  66.210938
+0                       346  33.789062
+
+
+
+                 count        pct
+cycle_Dia1_norm                  
+0                  852  83.203125
+1                  172  16.796875
+
+
+
+                 count    pct
+cycle_Dia2_norm              
+1                 1024  100.0
+
+
+
+                     count        pct
+cycle_Ena_Vasp_norm                  
+1                      745  72.753906
+0                      194  18.945312
+10                      85   8.300781
+
+
+
+                   count        pct
+cycle_IRSp53_norm                  
+1                    678  66.210938
+0                    346  33.789062
+
+
+
+                 count        pct
+cycle_LIMK_norm                  
+0                  678  66.210938
+10                 314  30.664062
+1                   32   3.125000
+
+
+
+                count        pct
+cycle_PAK_norm                  
+1                 678  66.210938
+0                 346  33.789062
+
+
+
+                 count        pct
+cycle_PIP2_norm                  
+0                  527  51.464844
+1                  497  48.535156
+
+
+
+                count    pct
+cycle_PKD_norm              
+0                1024  100.0
+
+
+
+                     count        pct
+cycle_Profilin_norm                  
+1                      830  81.054688
+0                      194  18.945312
+
+
+
+                 count        pct
+cycle_ROCK_norm                  
+0                  678  66.210938
+1                  346  33.789062
+
+
+
+                  count        pct
+cycle_ROCK__norm                  
+0                   678  66.210938
+1                   346  33.789062
+
+
+
+                 count        pct
+cycle_Rac1_norm                  
+1                  678  66.210938
+0                  346  33.789062
+
+
+
+                 count        pct
+cycle_RhoA_norm                  
+0                  678  66.210938
+1                  346  33.789062
+
+
+
+                count        pct
+cycle_SSH_norm                  
+1                 678  66.210938
+10                314  30.664062
+0                  32   3.125000
+
+
+
+                     count        pct
+cycle_Thymosin_norm                  
+0                      615  60.058594
+01                     326  31.835938
+1                       83   8.105469
+
+
+
+                 count        pct
+cycle_WASP_norm                  
+1                  615  60.058594
+01                 215  20.996094
+0                  194  18.945312
+
+
+
+                 count        pct
+cycle_WAVE_norm                  
+1                  678  66.210938
+0                  346  33.789062
+
+
+

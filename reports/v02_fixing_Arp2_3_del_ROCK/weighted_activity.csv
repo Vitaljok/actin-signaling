@@ -2,9 +2,9 @@
 Actin_BR,96
 Actin_ST,96
 Arp2_3,96
-CP,50
-Cdc42,49
-Cofilin,85
+CP,52
+Cdc42,50
+Cofilin,86
 Coronin,100
 Cortactin,96
 Dia1,0
@@ -13,7 +13,7 @@ Ena_Vasp,100
 IRSp53,100
 LIMK,0
 PAK,100
-PIP2,50
+PIP2,48
 PKD,0
 Profilin,100
 ROCK,0
@@ -21,6 +21,6 @@ ROCK_,0
 Rac1,96
 RhoA,4
 SSH,100
-Thymosin,15
-WASP,85
+Thymosin,14
+WASP,86
 WAVE,96

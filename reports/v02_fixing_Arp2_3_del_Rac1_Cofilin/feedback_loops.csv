@@ -1,0 +1,7 @@
+type,path
+neg,RhoA -> ROCK -> PKD -> PAK -| RhoA
+pos,ROCK -> PKD -| SSH -> Coronin -| ROCK
+pos,ROCK -> PKD -| SSH -| ROCK
+pos,SSH -> Coronin -> SSH
+pos,Thymosin -| WASP -| Thymosin
+pos,CP -| Dia1 -> Profilin -| Arp2_3 -> CP

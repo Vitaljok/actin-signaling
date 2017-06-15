@@ -1,0 +1,23 @@
+type,path
+pos,RhoA -> Dia1 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -| RhoA
+pos,RhoA -> Dia1 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -| RhoA
+neg,RhoA -> Dia1 -> Rac1 -> PAK -| RhoA
+neg,RhoA -> Dia1 -> Rac1 -| RhoA
+pos,RhoA -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -| RhoA
+pos,RhoA -> Rac1 -> SSH -| ROCK -> PKD -> PAK -| RhoA
+neg,RhoA -> Rac1 -> PAK -| RhoA
+neg,RhoA -> Rac1 -| RhoA
+pos,RhoA -> ROCK -> ROCK_ -| Rac1 -> PAK -| RhoA
+pos,RhoA -> ROCK -> ROCK_ -| Rac1 -| RhoA
+neg,RhoA -> ROCK -> PKD -> PAK -| RhoA
+neg,RhoA -> ROCK -> PKD -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> PAK -| RhoA
+neg,RhoA -> ROCK -> PKD -> Ena_Vasp -| CP -| Dia1 -> Rac1 -| RhoA
+pos,IRSp53 -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> IRSp53
+pos,Rac1 -> SSH -> Coronin -| ROCK -> ROCK_ -| Rac1
+neg,Rac1 -> SSH -> Coronin -| ROCK -> PKD -> Ena_Vasp -| CP -| Dia1 -> Rac1
+pos,Rac1 -> SSH -| ROCK -> ROCK_ -| Rac1
+neg,Rac1 -> SSH -| ROCK -> PKD -> Ena_Vasp -| CP -| Dia1 -> Rac1
+pos,ROCK -> PKD -| SSH -> Coronin -| ROCK
+pos,ROCK -> PKD -| SSH -| ROCK
+pos,SSH -> Coronin -> SSH
+pos,Cofilin -| Thymosin -| Cofilin

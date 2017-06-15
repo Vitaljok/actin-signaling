@@ -1,0 +1,190 @@
+                     count        pct
+cycle_Actin_BR_norm                  
+1                      683  66.699219
+0                      213  20.800781
+011                    128  12.500000
+
+
+
+                     count        pct
+cycle_Actin_ST_norm                  
+1                      683  66.699219
+110                    128  12.500000
+111011                 104  10.156250
+11110                   89   8.691406
+01000                   13   1.269531
+001100                   7   0.683594
+
+
+
+                   count        pct
+cycle_Arp2_3_norm                  
+1                    683  66.699219
+0                    213  20.800781
+110                  128  12.500000
+
+
+
+               count     pct
+cycle_CP_norm               
+0                544  53.125
+1                480  46.875
+
+
+
+                  count        pct
+cycle_Cdc42_norm                  
+0                   527  51.464844
+1                   497  48.535156
+
+
+
+                    count        pct
+cycle_Cofilin_norm                  
+1                     811  79.199219
+01                    193  18.847656
+0                      20   1.953125
+
+
+
+                    count    pct
+cycle_Coronin_norm              
+1                    1024  100.0
+
+
+
+                      count    pct
+cycle_Cortactin_norm              
+0                      1024  100.0
+
+
+
+                 count        pct
+cycle_Dia1_norm                  
+0                  811  79.199219
+001110             111  10.839844
+00011              102   9.960938
+
+
+
+                 count        pct
+cycle_Dia2_norm                  
+1                  683  66.699219
+101                128  12.500000
+101111             111  10.839844
+11011              102   9.960938
+
+
+
+                     count        pct
+cycle_Ena_Vasp_norm                  
+1                      913  89.160156
+111011                 104  10.156250
+011110                   7   0.683594
+
+
+
+                   count        pct
+cycle_IRSp53_norm                  
+1                    913  89.160156
+100111               111  10.839844
+
+
+
+                 count    pct
+cycle_LIMK_norm              
+0                 1024  100.0
+
+
+
+                count        pct
+cycle_PAK_norm                  
+1                 913  89.160156
+100111            111  10.839844
+
+
+
+                 count     pct
+cycle_PIP2_norm               
+1                  544  53.125
+0                  480  46.875
+
+
+
+                count    pct
+cycle_PKD_norm              
+0                1024  100.0
+
+
+
+                     count        pct
+cycle_Profilin_norm                  
+1                      811  79.199219
+110111                 104  10.156250
+11101                   89   8.691406
+10000                   13   1.269531
+011000                   7   0.683594
+
+
+
+                 count    pct
+cycle_ROCK_norm              
+0                 1024  100.0
+
+
+
+                  count    pct
+cycle_ROCK__norm              
+0                  1024  100.0
+
+
+
+                 count        pct
+cycle_Rac1_norm                  
+1                  683  66.699219
+011                128  12.500000
+001111             111  10.839844
+10011              102   9.960938
+
+
+
+                 count        pct
+cycle_RhoA_norm                  
+0                  683  66.699219
+010                128  12.500000
+011100             111  10.839844
+00110              102   9.960938
+
+
+
+                count    pct
+cycle_SSH_norm              
+1                1024  100.0
+
+
+
+                     count        pct
+cycle_Thymosin_norm                  
+0                      811  79.199219
+01                     193  18.847656
+1                       20   1.953125
+
+
+
+                 count        pct
+cycle_WASP_norm                  
+1                  811  79.199219
+01                 193  18.847656
+0                   20   1.953125
+
+
+
+                 count        pct
+cycle_WAVE_norm                  
+1                  683  66.699219
+101                128  12.500000
+100111             111  10.839844
+11001              102   9.960938
+
+
+

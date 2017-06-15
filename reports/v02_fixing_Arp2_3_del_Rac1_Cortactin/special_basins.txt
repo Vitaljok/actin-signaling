@@ -1,0 +1,9 @@
+                                         count        pct
+cycle_Actin_BR_norm cycle_Actin_ST_norm                  
+0                   0                      336  32.812500
+1                   1                      328  32.031250
+0                   1                      273  26.660156
+01                  01                      87   8.496094
+
+
+

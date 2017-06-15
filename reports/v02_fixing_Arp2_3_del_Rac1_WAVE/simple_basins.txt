@@ -1,0 +1,178 @@
+                     count        pct
+cycle_Actin_BR_norm                  
+0                      606  59.179688
+1                      321  31.347656
+01                      97   9.472656
+
+
+
+                     count        pct
+cycle_Actin_ST_norm                  
+1                      611  59.667969
+0                      316  30.859375
+01                      97   9.472656
+
+
+
+                   count        pct
+cycle_Arp2_3_norm                  
+0                    606  59.179688
+1                    321  31.347656
+10                    97   9.472656
+
+
+
+               count        pct
+cycle_CP_norm                  
+1                519  50.683594
+0                505  49.316406
+
+
+
+                  count        pct
+cycle_Cdc42_norm                  
+1                   522  50.976562
+0                   502  49.023438
+
+
+
+                    count        pct
+cycle_Cofilin_norm                  
+0                     702  68.554688
+1                     200  19.531250
+01                    122  11.914062
+
+
+
+                    count       pct
+cycle_Coronin_norm                 
+0                     936  91.40625
+1                      88   8.59375
+
+
+
+                      count    pct
+cycle_Cortactin_norm              
+0                      1024  100.0
+
+
+
+                 count        pct
+cycle_Dia1_norm                  
+0                  519  50.683594
+1                  505  49.316406
+
+
+
+                 count    pct
+cycle_Dia2_norm              
+1                 1024  100.0
+
+
+
+                     count        pct
+cycle_Ena_Vasp_norm                  
+1                      992  96.875000
+0                       21   2.050781
+01                      11   1.074219
+
+
+
+                   count        pct
+cycle_IRSp53_norm                  
+1                    522  50.976562
+0                    502  49.023438
+
+
+
+                 count       pct
+cycle_LIMK_norm                 
+1                  936  91.40625
+0                   88   8.59375
+
+
+
+                count        pct
+cycle_PAK_norm                  
+1                 983  95.996094
+0                  41   4.003906
+
+
+
+                 count        pct
+cycle_PIP2_norm                  
+0                  519  50.683594
+1                  505  49.316406
+
+
+
+                count       pct
+cycle_PKD_norm                 
+1                 936  91.40625
+0                  88   8.59375
+
+
+
+                     count        pct
+cycle_Profilin_norm                  
+1                      611  59.667969
+0                      316  30.859375
+10                      97   9.472656
+
+
+
+                 count       pct
+cycle_ROCK_norm                 
+1                  936  91.40625
+0                   88   8.59375
+
+
+
+                  count       pct
+cycle_ROCK__norm                 
+1                   936  91.40625
+0                    88   8.59375
+
+
+
+                 count    pct
+cycle_Rac1_norm              
+0                 1024  100.0
+
+
+
+                 count    pct
+cycle_RhoA_norm              
+1                 1024  100.0
+
+
+
+                count       pct
+cycle_SSH_norm                 
+0                 936  91.40625
+1                  88   8.59375
+
+
+
+                     count        pct
+cycle_Thymosin_norm                  
+0                      380  37.109375
+01                     347  33.886719
+1                      297  29.003906
+
+
+
+                 count        pct
+cycle_WASP_norm                  
+1                  361  35.253906
+01                 347  33.886719
+0                  316  30.859375
+
+
+
+                 count    pct
+cycle_WAVE_norm              
+0                 1024  100.0
+
+
+

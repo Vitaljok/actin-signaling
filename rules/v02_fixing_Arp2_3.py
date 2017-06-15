@@ -63,10 +63,11 @@ def build_rules():
 
     G.add_weighted_edges_from(get_edges(Cortactin, [Rac1, PAK], [Coronin, PKD]))
     rules += "1: Cortactin* = (Rac1 and PAK) or (Rac1 and not (Coronin and PKD) ) \n"
+    # rules += "1: Cortactin* = (Rac1 and not (Coronin and PKD) \n"    
 
     G.add_weighted_edges_from(get_edges(IRSp53, [Cdc42, Rac1], []))
     rules += "1: IRSp53* = Cdc42 or Rac1 \n"
-
+    
     G.add_weighted_edges_from(get_edges(PAK, [Rac1, Cdc42, PKD], []))
     rules += "1: PAK* = Rac1 or Cdc42 or PKD \n"
 
@@ -77,7 +78,7 @@ def build_rules():
     rules += "1: Dia2* = Rac1 or RhoA \n"
 
     G.add_weighted_edges_from(get_edges(Ena_Vasp, [IRSp53, WASP, PKD], []))
-    rules += "1: Ena_Vasp* = IRSp53 or WASP or PKD \n"
+    rules += "1: Ena_Vasp* = IRSp53 or WASP or PKD \n"  
 
     G.add_weighted_edges_from(get_edges(Profilin, [WASP, Dia1, WAVE], [Thymosin, PIP2]))
     rules += "1: Profilin* = " + voting_rule(["WASP", "Dia1", "WAVE"], ["Thymosin", "PIP2"]) + " \n"

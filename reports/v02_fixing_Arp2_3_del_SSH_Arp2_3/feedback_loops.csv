@@ -1,0 +1,29 @@
+type,path
+neg,RhoA -> Dia1 -> Rac1 -> PAK -| RhoA
+neg,RhoA -> Dia1 -> Rac1 -| RhoA
+neg,RhoA -> Rac1 -> PAK -| RhoA
+neg,RhoA -> Rac1 -| RhoA
+pos,RhoA -> ROCK -> LIMK -| Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> PAK -| RhoA
+pos,RhoA -> ROCK -> LIMK -| Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -| RhoA
+pos,RhoA -> ROCK -> ROCK_ -| Rac1 -> PAK -| RhoA
+pos,RhoA -> ROCK -> ROCK_ -| Rac1 -| RhoA
+pos,RhoA -> ROCK -> PKD -| Cortactin -> WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> PAK -| RhoA
+pos,RhoA -> ROCK -> PKD -| Cortactin -> WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -| RhoA
+neg,RhoA -> ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> PAK -| RhoA
+neg,RhoA -> ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -| RhoA
+neg,RhoA -> ROCK -> PKD -> PAK -> Cortactin -> WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -| RhoA
+pos,RhoA -> ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -| RhoA
+pos,RhoA -> ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -| RhoA
+neg,RhoA -> ROCK -> PKD -> PAK -| RhoA
+neg,RhoA -> ROCK -> PKD -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> PAK -| RhoA
+neg,RhoA -> ROCK -> PKD -> Ena_Vasp -| CP -| Dia1 -> Rac1 -| RhoA
+pos,IRSp53 -> WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> IRSp53
+pos,IRSp53 -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> IRSp53
+pos,Rac1 -> Cortactin -> WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1
+neg,Rac1 -> Cortactin -| Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1
+pos,Rac1 -> WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1
+pos,Rac1 -> PAK -> Cortactin -> WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1
+neg,Rac1 -> PAK -> Cortactin -| Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1
+neg,Rac1 -> PAK -> LIMK -| Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1
+pos,WASP -| Thymosin -| WASP
+pos,Cofilin -| Thymosin -| Cofilin

@@ -1,215 +1,217 @@
-                     count   pct
-cycle_Actin_BR_norm             
-1                      525  52.5
-0                      178  17.8
-01                     150  15.0
-011                    121  12.1
-1000                    26   2.6
+                     count        pct
+cycle_Actin_BR_norm                  
+1                      508  49.609375
+0                      220  21.484375
+011                    141  13.769531
+01                     114  11.132812
+10                      26   2.539062
+0010                    15   1.464844
 
 
 
-                     count   pct
-cycle_Actin_ST_norm             
-1                      708  70.8
-110                    121  12.1
-0                       87   8.7
-01                      45   4.5
-1011                    33   3.3
-0010                     6   0.6
+                     count        pct
+cycle_Actin_ST_norm                  
+1                      693  67.675781
+110                    141  13.769531
+0                      114  11.132812
+10                      39   3.808594
+1011                    31   3.027344
+0001                     6   0.585938
 
 
 
-                   count   pct
-cycle_Arp2_3_norm             
-1                    525  52.5
-0                    178  17.8
-10                   150  15.0
-110                  121  12.1
-0001                  26   2.6
+                   count        pct
+cycle_Arp2_3_norm                  
+1                    508  49.609375
+0                    220  21.484375
+110                  141  13.769531
+10                   114  11.132812
+01                    26   2.539062
+0100                  15   1.464844
 
 
 
-               count   pct
-cycle_CP_norm             
-0                504  50.4
-1                496  49.6
+               count        pct
+cycle_CP_norm                  
+1                534  52.148438
+0                490  47.851562
 
 
 
-                  count   pct
-cycle_Cdc42_norm             
-1                   523  52.3
-0                   477  47.7
+                  count        pct
+cycle_Cdc42_norm                  
+0                   532  51.953125
+1                   492  48.046875
 
 
 
-                    count   pct
-cycle_Cofilin_norm             
-1                     524  52.4
-01                    259  25.9
-0                     156  15.6
-0111                   61   6.1
+                    count        pct
+cycle_Cofilin_norm                  
+1                     527  51.464844
+01                    257  25.097656
+0                     188  18.359375
+1101                   52   5.078125
 
 
 
-                    count   pct
-cycle_Coronin_norm             
-1                     644  64.4
-01                    327  32.7
-0                      29   2.9
+                    count        pct
+cycle_Coronin_norm                  
+1                     639  62.402344
+01                    345  33.691406
+0                      40   3.906250
 
 
 
-                      count   pct
-cycle_Cortactin_norm             
-1                       523  52.3
-0                       190  19.0
-0001                    145  14.5
-101                     121  12.1
-01                       21   2.1
+                      count        pct
+cycle_Cortactin_norm                  
+1                       498  48.632812
+0                       243  23.730469
+101                     141  13.769531
+0100                    129  12.597656
+10                       13   1.269531
 
 
 
-                 count   pct
-cycle_Dia1_norm             
-0                  820  82.0
-1                  101  10.1
-1110                58   5.8
-01                  21   2.1
+                 count        pct
+cycle_Dia1_norm                  
+0                  828  80.859375
+1                  129  12.597656
+1110                54   5.273438
+10                  13   1.269531
 
 
 
-                 count   pct
-cycle_Dia2_norm             
-1                  713  71.3
-0111               145  14.5
-101                121  12.1
-01                  21   2.1
+                 count        pct
+cycle_Dia2_norm                  
+1                  741  72.363281
+101                141  13.769531
+1101               129  12.597656
+10                  13   1.269531
 
 
 
-                     count   pct
-cycle_Ena_Vasp_norm             
-1                      877  87.7
-0                       85   8.5
-10                      38   3.8
+                     count        pct
+cycle_Ena_Vasp_norm                  
+1                      858  83.789062
+0                      111  10.839844
+10                      55   5.371094
 
 
 
-                   count   pct
-cycle_IRSp53_norm             
-1                    834  83.4
-0                    166  16.6
+                   count        pct
+cycle_IRSp53_norm                  
+1                    817  79.785156
+0                    207  20.214844
 
 
 
-                 count   pct
-cycle_LIMK_norm             
-0                  644  64.4
-10                 327  32.7
-1                   29   2.9
+                 count        pct
+cycle_LIMK_norm                  
+0                  639  62.402344
+10                 345  33.691406
+1                   40   3.906250
 
 
 
-                count   pct
-cycle_PAK_norm             
-1                 834  83.4
-0                 166  16.6
+                count        pct
+cycle_PAK_norm                  
+1                 817  79.785156
+0                 207  20.214844
 
 
 
-                 count   pct
-cycle_PIP2_norm             
-1                  504  50.4
-0                  496  49.6
+                 count        pct
+cycle_PIP2_norm                  
+0                  534  52.148438
+1                  490  47.851562
 
 
 
                 count    pct
 cycle_PKD_norm              
-0                1000  100.0
+0                1024  100.0
 
 
 
-                     count   pct
-cycle_Profilin_norm             
-1                      829  82.9
-0                       87   8.7
-10                      45   4.5
-0111                    33   3.3
-0100                     6   0.6
+                     count        pct
+cycle_Profilin_norm                  
+1                      834  81.445312
+0                      114  11.132812
+01                      39   3.808594
+0111                    31   3.027344
+0010                     6   0.585938
 
 
 
-                 count   pct
-cycle_ROCK_norm             
-0                  644  64.4
-1                  190  19.0
-0111               145  14.5
-01                  21   2.1
+                 count        pct
+cycle_ROCK_norm                  
+0                  639  62.402344
+1                  243  23.730469
+1101               129  12.597656
+10                  13   1.269531
 
 
 
-                  count   pct
-cycle_ROCK__norm             
-0                   644  64.4
-1                   190  19.0
-1011                145  14.5
-10                   21   2.1
+                  count        pct
+cycle_ROCK__norm                  
+0                   639  62.402344
+1                   243  23.730469
+1110                129  12.597656
+01                   13   1.269531
 
 
 
-                 count   pct
-cycle_Rac1_norm             
-1                  523  52.3
-0                  190  19.0
-0010               145  14.5
-011                121  12.1
-10                  21   2.1
+                 count        pct
+cycle_Rac1_norm                  
+1                  498  48.632812
+0                  243  23.730469
+011                141  13.769531
+1000               129  12.597656
+01                  13   1.269531
 
 
 
-                 count   pct
-cycle_RhoA_norm             
-0                  523  52.3
-1                  190  19.0
-1110               145  14.5
-010                121  12.1
-10                  21   2.1
+                 count        pct
+cycle_RhoA_norm                  
+0                  498  48.632812
+1                  243  23.730469
+010                141  13.769531
+1011               129  12.597656
+01                  13   1.269531
 
 
 
-                count   pct
-cycle_SSH_norm             
-1                 644  64.4
-10                327  32.7
-0                  29   2.9
+                count        pct
+cycle_SSH_norm                  
+1                 639  62.402344
+10                345  33.691406
+0                  40   3.906250
 
 
 
-                     count   pct
-cycle_Thymosin_norm             
-0                      659  65.9
-01                     302  30.2
-1                       39   3.9
+                     count        pct
+cycle_Thymosin_norm                  
+0                      649  63.378906
+01                     309  30.175781
+1                       66   6.445312
 
 
 
-                 count   pct
-cycle_WASP_norm             
-1                  659  65.9
-01                 247  24.7
-0                   94   9.4
+                 count        pct
+cycle_WASP_norm                  
+1                  649  63.378906
+01                 253  24.707031
+0                  122  11.914062
 
 
 
-                 count   pct
-cycle_WAVE_norm             
-1                  523  52.3
-0                  190  19.0
-0001               145  14.5
-101                121  12.1
-01                  21   2.1
+                 count        pct
+cycle_WAVE_norm                  
+1                  498  48.632812
+0                  243  23.730469
+101                141  13.769531
+0100               129  12.597656
+10                  13   1.269531
 
 
 

@@ -1,0 +1,8 @@
+                                         count        pct
+cycle_Actin_BR_norm cycle_Actin_ST_norm                  
+1                   0                      771  75.292969
+0                   0                      206  20.117188
+1110                0                       47   4.589844
+
+
+

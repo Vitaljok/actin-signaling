@@ -1,0 +1,188 @@
+                     count        pct
+cycle_Actin_BR_norm                  
+1                      485  47.363281
+0                      427  41.699219
+1101                   112  10.937500
+
+
+
+                     count        pct
+cycle_Actin_ST_norm                  
+1                      553  54.003906
+0                      427  41.699219
+1011                    44   4.296875
+
+
+
+                   count        pct
+cycle_Arp2_3_norm                  
+1                    485  47.363281
+0                    427  41.699219
+1011                 112  10.937500
+
+
+
+               count        pct
+cycle_CP_norm                  
+0                513  50.097656
+1                511  49.902344
+
+
+
+                  count    pct
+cycle_Cdc42_norm              
+0                  1024  100.0
+
+
+
+                    count        pct
+cycle_Cofilin_norm                  
+0                     826  80.664062
+1                     130  12.695312
+01                     68   6.640625
+
+
+
+                    count        pct
+cycle_Coronin_norm                  
+0                     826  80.664062
+0111                  112  10.937500
+1                      86   8.398438
+
+
+
+                      count        pct
+cycle_Cortactin_norm                  
+0                       826  80.664062
+0111                    112  10.937500
+1                        86   8.398438
+
+
+
+                 count        pct
+cycle_Dia1_norm                  
+0                  557  54.394531
+1                  399  38.964844
+0110                68   6.640625
+
+
+
+                 count      pct
+cycle_Dia2_norm                
+1                  912  89.0625
+0111               112  10.9375
+
+
+
+                     count    pct
+cycle_Ena_Vasp_norm              
+1                     1024  100.0
+
+
+
+                   count        pct
+cycle_IRSp53_norm                  
+0                    826  80.664062
+0111                 112  10.937500
+1                     86   8.398438
+
+
+
+                 count        pct
+cycle_LIMK_norm                  
+1                  826  80.664062
+1000               112  10.937500
+0                   86   8.398438
+
+
+
+                count      pct
+cycle_PAK_norm                
+1                 912  89.0625
+0111              112  10.9375
+
+
+
+                 count        pct
+cycle_PIP2_norm                  
+1                  513  50.097656
+0                  511  49.902344
+
+
+
+                count        pct
+cycle_PKD_norm                  
+1                 826  80.664062
+0010              112  10.937500
+0                  86   8.398438
+
+
+
+                     count        pct
+cycle_Profilin_norm                  
+1                      597  58.300781
+0                      427  41.699219
+
+
+
+                 count        pct
+cycle_ROCK_norm                  
+1                  826  80.664062
+0100               112  10.937500
+0                   86   8.398438
+
+
+
+                  count        pct
+cycle_ROCK__norm                  
+1                   826  80.664062
+0010                112  10.937500
+0                    86   8.398438
+
+
+
+                 count        pct
+cycle_Rac1_norm                  
+0                  826  80.664062
+1110               112  10.937500
+1                   86   8.398438
+
+
+
+                 count        pct
+cycle_RhoA_norm                  
+1                  826  80.664062
+1100               112  10.937500
+0                   86   8.398438
+
+
+
+                count        pct
+cycle_SSH_norm                  
+0                 826  80.664062
+1110              112  10.937500
+1                  86   8.398438
+
+
+
+                     count    pct
+cycle_Thymosin_norm              
+0                     1024  100.0
+
+
+
+                 count        pct
+cycle_WASP_norm                  
+1                  597  58.300781
+0                  427  41.699219
+
+
+
+                 count        pct
+cycle_WAVE_norm                  
+0                  826  80.664062
+0111               112  10.937500
+1                   86   8.398438
+
+
+
