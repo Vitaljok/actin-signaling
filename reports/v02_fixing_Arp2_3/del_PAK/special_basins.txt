@@ -1,8 +1,15 @@
-                                         count        pct
-cycle_Actin_BR_norm cycle_Actin_ST_norm                  
-0                   1                      643  62.792969
-                    0                      294  28.710938
-                    10                      87   8.496094
+                   count        pct
+Actin_BR Actin_ST                  
+0        1           614  59.960938
+         0           321  31.347656
+         10           89   8.691406
+
+
+
+           count        pct
+Rac1 RhoA                  
+0    1       954  93.164062
+1    1        70   6.835938
 
 
 

@@ -1,10 +1,10 @@
 ,"activity, %"
 Actin_BR,96
-Actin_ST,37
+Actin_ST,38
 Arp2_3,96
-CP,97
+CP,98
 Cdc42,50
-Cofilin,20
+Cofilin,21
 Coronin,22
 Cortactin,96
 Dia1,0
@@ -14,13 +14,13 @@ IRSp53,58
 LIMK,78
 PAK,99
 PIP2,51
-PKD,68
-Profilin,65
-ROCK,68
-ROCK_,68
+PKD,69
+Profilin,67
+ROCK,69
+ROCK_,69
 Rac1,31
 RhoA,70
 SSH,22
-Thymosin,33
-WASP,67
+Thymosin,30
+WASP,70
 WAVE,31

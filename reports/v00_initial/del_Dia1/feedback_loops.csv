@@ -1,0 +1,200 @@
+type,path
+neg,Arp2_3 -> Rac1 -> SSH -> Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -| Cortactin -> WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -| Cortactin -> WASP -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -| Cortactin -> WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -| Cortactin -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> Cortactin -> WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> Cortactin -> WASP -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> Cortactin -> WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> Cortactin -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD -> PAK -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> LIMK -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -> Coronin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| LIMK -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -| Cortactin -> WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -| Cortactin -> WASP -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -| Cortactin -> WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -| Cortactin -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> Cortactin -> WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> Cortactin -> WASP -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> Cortactin -> WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> Cortactin -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD -> PAK -> Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> SSH -| ROCK -> LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> SSH -| ROCK -> LIMK -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> Cortactin -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> Cortactin -> WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> Cortactin -> WASP -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> Cortactin -> WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> Cortactin -> Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -> WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -> WASP -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -> WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -> Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -| LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -| LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -| LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| SSH -| LIMK -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| Cortactin -> WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| Cortactin -> WASP -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| Cortactin -> WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -| Cortactin -> Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> Cortactin -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> Cortactin -> WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> Cortactin -> WASP -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> Cortactin -> WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> Cortactin -> Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> LIMK -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD -> PAK -> Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -| RhoA -> ROCK -> LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -| RhoA -> ROCK -> LIMK -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> WAVE -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> WAVE -> Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -> Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -> Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -> Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -> Cortactin -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -> Cortactin -> WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -> Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -> Cortactin -> WASP -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -> Cortactin -> WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -> Cortactin -> Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -> LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -> LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -> LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -> LIMK -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -> WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -> WASP -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -> WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Cortactin -> Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -> Coronin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -| LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -| LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -| LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| SSH -| LIMK -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| Cortactin -| Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| Cortactin -> WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| Cortactin -> WASP -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| Cortactin -> WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> PKD -| Cortactin -> Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> LIMK -| Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> LIMK -| Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> LIMK -| Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -| RhoA -> ROCK -> LIMK -| Cofilin -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> PAK -> Arp2_3
+neg,Arp2_3 -> Rac1 -> WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> WASP -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> WASP -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> WASP -> Arp2_3
+neg,Arp2_3 -> Rac1 -> IRSp53 -> WASP -> Profilin -| Arp2_3
+neg,Arp2_3 -> Rac1 -> IRSp53 -> WASP -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> IRSp53 -> WASP -| Thymosin -| Arp2_3
+pos,Arp2_3 -> Rac1 -> IRSp53 -> WASP -> Arp2_3
+neg,Arp2_3 -> Cofilin -| Thymosin -| Profilin -| Arp2_3
+neg,Arp2_3 -> Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Cofilin -| Thymosin -| WASP -> Arp2_3
+pos,Arp2_3 -> Cofilin -| Thymosin -| Arp2_3
+pos,PKD -| SSH -> Coronin -| ROCK -> PKD
+pos,PKD -| SSH -| ROCK -> PKD
+pos,PKD -> PAK -| RhoA -> Rac1 -> SSH -> Coronin -| ROCK -> PKD
+pos,PKD -> PAK -| RhoA -> Rac1 -> SSH -| ROCK -> PKD
+neg,PKD -> PAK -| RhoA -> ROCK -> PKD
+pos,Rac1 -> SSH -> Coronin -| ROCK -| Rac1
+pos,Rac1 -> SSH -| ROCK -| Rac1
+neg,Rac1 -| RhoA -> Rac1
+pos,Rac1 -| RhoA -> ROCK -| Rac1
+neg,Rac1 -> PAK -| RhoA -> Rac1
+pos,Rac1 -> PAK -| RhoA -> ROCK -| Rac1
+pos,Coronin -> SSH -> Coronin
+pos,Thymosin -| WASP -| Thymosin
+pos,Thymosin -| Cofilin -| Thymosin
