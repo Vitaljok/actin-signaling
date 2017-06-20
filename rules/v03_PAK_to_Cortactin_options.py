@@ -55,8 +55,7 @@ def build_rules(option='A'):
 
     G.add_weighted_edges_from(get_edges(Arp2_3, [PAK, WASP, WAVE, Cortactin], [Profilin, Thymosin, Coronin]))
     rules += "1: Arp2_3* = PAK and (" + voting_rule([WASP, WAVE, Cortactin],
-                                                    [Profilin, Thymosin, Coronin],
-                                                    strongInhibition=False) + ")\n"
+                                                    [Profilin, Thymosin, Coronin]) + ")\n"
 
     G.add_weighted_edges_from(get_edges(Rac1, [Arp2_3, Dia1, RhoA], [ROCK_]))
     rules += "1: Rac1* = not ROCK_ and (Arp2_3 or Dia1 or RhoA) \n"  # intermediate ROCK_ node + activation from RhoA
