@@ -54,11 +54,13 @@ def build_rules():
     rules += "1: WAVE* = Rac1 \n" 
 
     G.add_weighted_edges_from(get_edges(Arp2_3, [PAK, WASP, WAVE, Cortactin], [Profilin, Thymosin, Coronin]))
+    # TODO: try PAK to voting rules (later)
     rules += "1: Arp2_3* = PAK and (" + voting_rule([WASP, WAVE, Cortactin],
                                                     [Profilin, Thymosin, Coronin]) + ")\n"
+    
 
-    G.add_weighted_edges_from(get_edges(Rac1, [Arp2_3, Dia1, RhoA], [ROCK_]))
-    rules += "1: Rac1* = not ROCK_ and (Arp2_3 or Dia1 or Thymosin) \n" 
+    G.add_weighted_edges_from(get_edges(Rac1, [Arp2_3, Dia1], [ROCK_]))
+    rules += "1: Rac1* = not ROCK_ and (Arp2_3 or Dia1) \n" 
         
     rules += "1: ROS* = Rac1 \n" 
     rules += "1: NET1* = PAK \n"     
@@ -67,11 +69,11 @@ def build_rules():
     rules += "1: RhoA* = not ROS and not NET1 \n"
 
     G.add_weighted_edges_from(get_edges(Thymosin, [], [WASP, Cofilin]))
-    # rules += "1: Thymosin* = (not WASP and not Cofilin) \n" # 24
+    rules += "1: Thymosin* = (not WASP and not Cofilin) \n" # 24
     # rules += "1: Thymosin* = (not WASP or not Cofilin) \n" # 97
     # rules += "1: Thymosin* = (not WASP or not Cofilin) or Rac1 \n" # 99
     # rules += "1: Thymosin* = (not WASP and not Cofilin) or Rac1 \n" # 80    
-    rules += "1: Thymosin* = (not WASP or not Cofilin) and Rac1 \n" # 9; 40 with Thymosin -> Rac1 link
+    # rules += "1: Thymosin* = (not WASP or not Cofilin) and Rac1 \n" # 9; 40 with Thymosin -> Rac1 link
     # rules += "1: Thymosin* = (not WASP and not Cofilin) and Rac1 \n" # 0
 
     G.add_weighted_edges_from(get_edges(Cortactin, [Rac1], [Coronin, PKD]))
