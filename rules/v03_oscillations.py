@@ -49,7 +49,7 @@ def build_rules():
 
     G.add_weighted_edges_from(get_edges(WASP, [Rac1, Cdc42, PIP2, Cortactin, IRSp53], [Thymosin]))
     rules += "1: WASP* = not Thymosin and (Rac1 or Cdc42 or PIP2 or Cortactin or IRSp53) \n"
-    # rules += "1: WASP* = not Thymosin and Cortactin and (Rac1 or Cdc42 or PIP2 or IRSp53) \n" # WAVE dependent Actin-ST
+    # rules += "1: WASP* = not Thymosin and Cortactin and (Rac1 or Cdc42 or PIP2 or IRSp53) \n" # WAVE dependent Actin-ST    
     
     G.add_weighted_edges_from(get_edges(WAVE, [Rac1], []))
     rules += "1: WAVE* = Rac1 \n" 
@@ -59,8 +59,7 @@ def build_rules():
 #     rules += "1: Arp2_3* = PAK and (" + voting_rule([WASP, WAVE, Cortactin],
 #                                                     [Profilin, Thymosin, Coronin]) + ")\n"
     
-    rules += "1: Arp2_3* = PAK and (" + voting_rule(["(WASP and Cortactin)", WAVE, Cortactin],
-                                            [Profilin, Thymosin, Coronin]) + ")\n"
+    rules += "1: Arp2_3* = PAK and (" + voting_rule([WASP, WAVE, Cortactin], [Profilin, Thymosin, Coronin]) + ")\n"
     
     
 
