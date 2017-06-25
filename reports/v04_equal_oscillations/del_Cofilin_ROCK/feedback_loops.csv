@@ -1,0 +1,4 @@
+type,path
+pos,SSH -> Coronin -> SSH
+pos,WASP -| Thymosin -| WASP
+pos,Dia1 -> Profilin -| Arp2_3 -> CP -| Dia1

@@ -1,0 +1,9 @@
+type,path
+pos,Dia1 -> Profilin -| Arp2_3 -> CP -| Dia1
+neg,Dia1 -> Profilin -| Arp2_3 -> Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1
+neg,Arp2_3 -> Cofilin -| Thymosin -| WASP -> Profilin -| Arp2_3
+pos,Arp2_3 -> Cofilin -| Thymosin -| WASP -> Arp2_3
+neg,Arp2_3 -> Cofilin -| Thymosin -| Profilin -| Arp2_3
+pos,Arp2_3 -> Cofilin -| Thymosin -| Arp2_3
+pos,Thymosin -| WASP -| Thymosin
+pos,Thymosin -| Cofilin -| Thymosin

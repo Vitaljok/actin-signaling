@@ -1,0 +1,174 @@
+          count        pct
+Actin_BR                  
+10          781  76.269531
+1           225  21.972656
+0            18   1.757812
+
+
+
+          count    pct
+Actin_ST              
+1          1024  100.0
+
+
+
+        count        pct
+Arp2_3                  
+01        781  76.269531
+1         225  21.972656
+0          18   1.757812
+
+
+
+    count    pct
+CP              
+1    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+1        533  52.050781
+0        491  47.949219
+
+
+
+         count    pct
+Cofilin              
+0         1024  100.0
+
+
+
+         count   pct
+Coronin             
+01         896  87.5
+1          128  12.5
+
+
+
+           count    pct
+Cortactin              
+10          1024  100.0
+
+
+
+      count    pct
+Dia1              
+0      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           670  65.429688
+01          348  33.984375
+0             6   0.585938
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+1               533  52.050781
+0               491  47.949219
+
+
+
+             count    pct
+IRSp53_Rac1              
+10            1024  100.0
+
+
+
+      count   pct
+LIMK             
+10      896  87.5
+0       128  12.5
+
+
+
+     count        pct
+PAK                  
+1      533  52.050781
+10     491  47.949219
+
+
+
+      count    pct
+PIP2              
+0      1024  100.0
+
+
+
+     count   pct
+PKD             
+10     896  87.5
+0      128  12.5
+
+
+
+          count    pct
+Profilin              
+1          1024  100.0
+
+
+
+      count   pct
+ROCK             
+01      896  87.5
+0       128  12.5
+
+
+
+      count    pct
+Rac1              
+01     1024  100.0
+
+
+
+      count    pct
+RhoA              
+10     1024  100.0
+
+
+
+     count   pct
+SSH             
+10     896  87.5
+1      128  12.5
+
+
+
+          count        pct
+Thymosin                  
+10          488  47.656250
+0           317  30.957031
+1           219  21.386719
+
+
+
+          count    pct
+UPSTREAM              
+10         1024  100.0
+
+
+
+      count        pct
+WASP                  
+10      488  47.656250
+1       317  30.957031
+0       219  21.386719
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

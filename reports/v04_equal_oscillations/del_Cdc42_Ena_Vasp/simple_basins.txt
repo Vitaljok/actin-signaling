@@ -1,0 +1,172 @@
+          count    pct
+Actin_BR              
+10         1024  100.0
+
+
+
+          count        pct
+Actin_ST                  
+10          813  79.394531
+1           113  11.035156
+0            98   9.570312
+
+
+
+        count    pct
+Arp2_3              
+01       1024  100.0
+
+
+
+    count        pct
+CP                  
+10    518  50.585938
+1     506  49.414062
+
+
+
+       count    pct
+Cdc42              
+0       1024  100.0
+
+
+
+         count        pct
+Cofilin                  
+10         813  79.394531
+0          162  15.820312
+1           49   4.785156
+
+
+
+         count        pct
+Coronin                  
+01         911  88.964844
+1          113  11.035156
+
+
+
+           count    pct
+Cortactin              
+10          1024  100.0
+
+
+
+      count    pct
+Dia1              
+0      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count    pct
+Ena_Vasp              
+0          1024  100.0
+
+
+
+              count    pct
+IRSp53_Cdc42              
+0              1024  100.0
+
+
+
+             count    pct
+IRSp53_Rac1              
+10            1024  100.0
+
+
+
+      count        pct
+LIMK                  
+10      911  88.964844
+0       113  11.035156
+
+
+
+     count    pct
+PAK              
+10    1024  100.0
+
+
+
+      count        pct
+PIP2                  
+1       518  50.585938
+0       506  49.414062
+
+
+
+     count        pct
+PKD                  
+10     911  88.964844
+0      113  11.035156
+
+
+
+          count        pct
+Profilin                  
+1           975  95.214844
+0            49   4.785156
+
+
+
+      count        pct
+ROCK                  
+01      911  88.964844
+0       113  11.035156
+
+
+
+      count    pct
+Rac1              
+01     1024  100.0
+
+
+
+      count    pct
+RhoA              
+10     1024  100.0
+
+
+
+     count        pct
+SSH                  
+10     911  88.964844
+1      113  11.035156
+
+
+
+          count        pct
+Thymosin                  
+0           521  50.878906
+01          454  44.335938
+1            49   4.785156
+
+
+
+          count    pct
+UPSTREAM              
+10         1024  100.0
+
+
+
+      count        pct
+WASP                  
+1       521  50.878906
+01      454  44.335938
+0        49   4.785156
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

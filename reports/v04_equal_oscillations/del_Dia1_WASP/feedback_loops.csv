@@ -1,0 +1,7 @@
+type,path
+pos,SSH -| ROCK -> PKD -| SSH
+pos,SSH -> Coronin -| ROCK -> PKD -| SSH
+pos,SSH -> Coronin -> SSH
+pos,Arp2_3 -> Cofilin -| Thymosin -| Arp2_3
+neg,Arp2_3 -> Cofilin -| Thymosin -| Profilin -| Arp2_3
+pos,Thymosin -| Cofilin -| Thymosin

@@ -1,0 +1,6 @@
+type,path
+pos,SSH -| ROCK -> PKD -| SSH
+pos,SSH -> Coronin -| ROCK -> PKD -| SSH
+pos,SSH -> Coronin -> SSH
+pos,Cofilin -| Thymosin -| Cofilin
+pos,WASP -| Thymosin -| WASP

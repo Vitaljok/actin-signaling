@@ -1,0 +1,173 @@
+          count        pct
+Actin_BR                  
+10          518  50.585938
+1           506  49.414062
+
+
+
+          count        pct
+Actin_ST                  
+1           884  86.328125
+01          140  13.671875
+
+
+
+        count        pct
+Arp2_3                  
+01        518  50.585938
+1         506  49.414062
+
+
+
+    count        pct
+CP                  
+0     533  52.050781
+1     491  47.949219
+
+
+
+       count        pct
+Cdc42                  
+0        518  50.585938
+1        506  49.414062
+
+
+
+         count        pct
+Cofilin                  
+1          533  52.050781
+01         368  35.937500
+0          123  12.011719
+
+
+
+         count    pct
+Coronin              
+0         1024  100.0
+
+
+
+           count    pct
+Cortactin              
+01          1024  100.0
+
+
+
+      count        pct
+Dia1                  
+10      533  52.050781
+0       491  47.949219
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           843  82.324219
+01          181  17.675781
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0               518  50.585938
+1               506  49.414062
+
+
+
+             count    pct
+IRSp53_Rac1              
+01            1024  100.0
+
+
+
+      count    pct
+LIMK              
+0      1024  100.0
+
+
+
+     count        pct
+PAK                  
+10     518  50.585938
+1      506  49.414062
+
+
+
+      count        pct
+PIP2                  
+1       533  52.050781
+0       491  47.949219
+
+
+
+     count    pct
+PKD              
+01    1024  100.0
+
+
+
+          count        pct
+Profilin                  
+1           958  93.554688
+10           66   6.445312
+
+
+
+      count    pct
+ROCK              
+10     1024  100.0
+
+
+
+      count    pct
+Rac1              
+10     1024  100.0
+
+
+
+      count    pct
+RhoA              
+01     1024  100.0
+
+
+
+     count    pct
+SSH              
+01    1024  100.0
+
+
+
+          count        pct
+Thymosin                  
+0           644  62.890625
+01          314  30.664062
+1            66   6.445312
+
+
+
+          count    pct
+UPSTREAM              
+01         1024  100.0
+
+
+
+      count        pct
+WASP                  
+1       644  62.890625
+01      314  30.664062
+0        66   6.445312
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

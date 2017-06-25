@@ -1,0 +1,14 @@
+type,path
+pos,Cofilin -| Thymosin -| Cofilin
+neg,Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> Cortactin -| Cofilin
+pos,Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> SSH -> Coronin -| Cortactin -| Cofilin
+pos,Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> SSH -| LIMK -| Cofilin
+pos,Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> SSH -> Cofilin
+neg,Cofilin -| Thymosin -| WASP -> Ena_Vasp -| CP -| Dia1 -> Rac1 -> PAK -> LIMK -| Cofilin
+pos,Thymosin -| WASP -| Thymosin
+neg,NET1 -> RhoA -> Dia1 -> Rac1 -> PAK -| NET1
+pos,CP -| Dia1 -> Rac1 -> Cortactin -> WASP -> Ena_Vasp -| CP
+neg,CP -| Dia1 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -> Ena_Vasp -| CP
+pos,CP -| Dia1 -> Rac1 -> WASP -> Ena_Vasp -| CP
+neg,Rac1 -| RhoA -> Dia1 -> Rac1
+pos,SSH -> Coronin -> SSH

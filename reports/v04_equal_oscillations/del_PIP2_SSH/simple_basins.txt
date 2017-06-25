@@ -1,0 +1,168 @@
+          count        pct
+Actin_BR                  
+01          577  56.347656
+1           447  43.652344
+
+
+
+          count        pct
+Actin_ST                  
+1           843  82.324219
+10          181  17.675781
+
+
+
+        count        pct
+Arp2_3                  
+10        577  56.347656
+1         447  43.652344
+
+
+
+    count    pct
+CP              
+1    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+0        518  50.585938
+1        506  49.414062
+
+
+
+         count        pct
+Cofilin                  
+01         674  65.820312
+0          350  34.179688
+
+
+
+         count    pct
+Coronin              
+0         1024  100.0
+
+
+
+           count    pct
+Cortactin              
+01          1024  100.0
+
+
+
+      count    pct
+Dia1              
+0      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           738  72.070312
+10          286  27.929688
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0               518  50.585938
+1               506  49.414062
+
+
+
+             count    pct
+IRSp53_Rac1              
+01            1024  100.0
+
+
+
+      count    pct
+LIMK              
+1      1024  100.0
+
+
+
+     count        pct
+PAK                  
+01     518  50.585938
+1      506  49.414062
+
+
+
+      count    pct
+PIP2              
+0      1024  100.0
+
+
+
+     count    pct
+PKD              
+01    1024  100.0
+
+
+
+          count    pct
+Profilin              
+1          1024  100.0
+
+
+
+      count    pct
+ROCK              
+10     1024  100.0
+
+
+
+      count    pct
+Rac1              
+10     1024  100.0
+
+
+
+      count    pct
+RhoA              
+01     1024  100.0
+
+
+
+     count    pct
+SSH              
+0     1024  100.0
+
+
+
+          count        pct
+Thymosin                  
+10          481  46.972656
+0           379  37.011719
+1           164  16.015625
+
+
+
+          count    pct
+UPSTREAM              
+01         1024  100.0
+
+
+
+      count        pct
+WASP                  
+10      481  46.972656
+1       379  37.011719
+0       164  16.015625
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

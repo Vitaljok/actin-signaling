@@ -1,0 +1,172 @@
+          count    pct
+Actin_BR              
+01         1024  100.0
+
+
+
+          count        pct
+Actin_ST                  
+10          624  60.937500
+1           364  35.546875
+0            36   3.515625
+
+
+
+        count    pct
+Arp2_3              
+10       1024  100.0
+
+
+
+    count        pct
+CP                  
+1     533  52.050781
+0     364  35.546875
+01    127  12.402344
+
+
+
+       count    pct
+Cdc42              
+0       1024  100.0
+
+
+
+         count        pct
+Cofilin                  
+10         586  57.226562
+1          311  30.371094
+0          127  12.402344
+
+
+
+         count      pct
+Coronin                
+10         784  76.5625
+1          240  23.4375
+
+
+
+           count    pct
+Cortactin              
+01          1024  100.0
+
+
+
+      count    pct
+Dia1              
+0      1024  100.0
+
+
+
+      count    pct
+Dia2              
+01     1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           541  52.832031
+01          447  43.652344
+0            36   3.515625
+
+
+
+              count    pct
+IRSp53_Cdc42              
+0              1024  100.0
+
+
+
+             count    pct
+IRSp53_Rac1              
+01            1024  100.0
+
+
+
+      count    pct
+LIMK              
+0      1024  100.0
+
+
+
+     count    pct
+PAK              
+01    1024  100.0
+
+
+
+      count        pct
+PIP2                  
+0       533  52.050781
+1       491  47.949219
+
+
+
+     count    pct
+PKD              
+0     1024  100.0
+
+
+
+          count        pct
+Profilin                  
+1           988  96.484375
+0            36   3.515625
+
+
+
+      count    pct
+ROCK              
+0      1024  100.0
+
+
+
+      count    pct
+Rac1              
+10     1024  100.0
+
+
+
+      count    pct
+RhoA              
+0      1024  100.0
+
+
+
+     count      pct
+SSH                
+01     784  76.5625
+1      240  23.4375
+
+
+
+          count        pct
+Thymosin                  
+0           541  52.832031
+10          447  43.652344
+1            36   3.515625
+
+
+
+          count    pct
+UPSTREAM              
+01         1024  100.0
+
+
+
+      count        pct
+WASP                  
+1       541  52.832031
+10      447  43.652344
+0        36   3.515625
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

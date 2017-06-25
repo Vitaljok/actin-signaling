@@ -1,0 +1,58 @@
+type,path
+neg,Thymosin -| Arp2_3 -> CP -| Dia1 -> Rac1 -> Cortactin -> WASP -| Thymosin
+pos,Thymosin -| Arp2_3 -> CP -| Dia1 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -| Thymosin
+neg,Thymosin -| Arp2_3 -> CP -| Dia1 -> Rac1 -> WASP -| Thymosin
+pos,Thymosin -| Arp2_3 -> Rac1 -> Cortactin -> WASP -| Thymosin
+neg,Thymosin -| Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -| Thymosin
+pos,Thymosin -| Arp2_3 -> Rac1 -> WASP -| Thymosin
+pos,Thymosin -| WASP -| Thymosin
+pos,Thymosin -| Profilin -| Arp2_3 -> CP -| Dia1 -> Rac1 -> Cortactin -> WASP -| Thymosin
+neg,Thymosin -| Profilin -| Arp2_3 -> CP -| Dia1 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -| Thymosin
+pos,Thymosin -| Profilin -| Arp2_3 -> CP -| Dia1 -> Rac1 -> WASP -| Thymosin
+neg,Thymosin -| Profilin -| Arp2_3 -> Rac1 -> Cortactin -> WASP -| Thymosin
+pos,Thymosin -| Profilin -| Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -| Thymosin
+neg,Thymosin -| Profilin -| Arp2_3 -> Rac1 -> WASP -| Thymosin
+pos,NET1 -> RhoA -> ROCK -> ARHGAP22 -| Rac1 -> PAK -| NET1
+neg,NET1 -> RhoA -> Dia1 -> Rac1 -> PAK -| NET1
+pos,NET1 -> RhoA -> Dia1 -> Profilin -| Arp2_3 -> Rac1 -> PAK -| NET1
+neg,CP -| Dia1 -> Rac1 -> WAVE -> Arp2_3 -> CP
+pos,CP -| Dia1 -> Rac1 -> WAVE -> Profilin -| Arp2_3 -> CP
+neg,CP -| Dia1 -> Rac1 -> Cortactin -> Arp2_3 -> CP
+pos,CP -| Dia1 -> Rac1 -> Cortactin -> WASP -> Ena_Vasp -| CP
+neg,CP -| Dia1 -> Rac1 -> Cortactin -> WASP -> Arp2_3 -> CP
+pos,CP -| Dia1 -> Rac1 -> Cortactin -> WASP -> Profilin -| Arp2_3 -> CP
+pos,CP -| Dia1 -> Rac1 -> SSH -> Coronin -| Cortactin -> Arp2_3 -> CP
+neg,CP -| Dia1 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -> Ena_Vasp -| CP
+pos,CP -| Dia1 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -> Arp2_3 -> CP
+neg,CP -| Dia1 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -> Profilin -| Arp2_3 -> CP
+pos,CP -| Dia1 -> Rac1 -> SSH -> Coronin -| Arp2_3 -> CP
+pos,CP -| Dia1 -> Rac1 -> WASP -> Ena_Vasp -| CP
+neg,CP -| Dia1 -> Rac1 -> WASP -> Arp2_3 -> CP
+pos,CP -| Dia1 -> Rac1 -> WASP -> Profilin -| Arp2_3 -> CP
+neg,CP -| Dia1 -> Rac1 -> PAK -> Arp2_3 -> CP
+neg,CP -| Dia1 -> Rac1 -> IRSp53_Rac1 -> WAVE -> Arp2_3 -> CP
+pos,CP -| Dia1 -> Rac1 -> IRSp53_Rac1 -> WAVE -> Profilin -| Arp2_3 -> CP
+pos,CP -| Dia1 -> Profilin -| Arp2_3 -> CP
+neg,CP -| Dia1 -> Profilin -| Arp2_3 -> Rac1 -> Cortactin -> WASP -> Ena_Vasp -| CP
+pos,CP -| Dia1 -> Profilin -| Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -> Ena_Vasp -| CP
+neg,CP -| Dia1 -> Profilin -| Arp2_3 -> Rac1 -> WASP -> Ena_Vasp -| CP
+pos,ROCK -> ARHGAP22 -| Rac1 -| RhoA -> ROCK
+pos,ROCK -> ARHGAP22 -| Rac1 -> SSH -| ROCK
+pos,ROCK -> ARHGAP22 -| Rac1 -> SSH -> Coronin -| ROCK
+pos,Profilin -| Arp2_3 -> Rac1 -| RhoA -> Dia1 -> Profilin
+neg,Profilin -| Arp2_3 -> Rac1 -> WAVE -> Profilin
+neg,Profilin -| Arp2_3 -> Rac1 -> Cortactin -> WASP -> Profilin
+pos,Profilin -| Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -> Profilin
+neg,Profilin -| Arp2_3 -> Rac1 -> WASP -> Profilin
+neg,Profilin -| Arp2_3 -> Rac1 -> IRSp53_Rac1 -> WAVE -> Profilin
+pos,PAK -> Arp2_3 -> Rac1 -> PAK
+pos,WAVE -> Arp2_3 -> Rac1 -> WAVE
+pos,WAVE -> Arp2_3 -> Rac1 -> IRSp53_Rac1 -> WAVE
+neg,Dia1 -> Rac1 -| RhoA -> Dia1
+pos,WASP -> Arp2_3 -> Rac1 -> Cortactin -> WASP
+neg,WASP -> Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP
+pos,WASP -> Arp2_3 -> Rac1 -> WASP
+neg,SSH -> Coronin -| Cortactin -> Arp2_3 -> Rac1 -> SSH
+neg,SSH -> Coronin -| Arp2_3 -> Rac1 -> SSH
+pos,SSH -> Coronin -> SSH
+pos,Cortactin -> Arp2_3 -> Rac1 -> Cortactin

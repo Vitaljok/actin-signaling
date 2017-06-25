@@ -1,0 +1,171 @@
+          count        pct
+Actin_BR                  
+10          530  51.757812
+1           494  48.242188
+
+
+
+          count        pct
+Actin_ST                  
+1           620  60.546875
+10          348  33.984375
+0            56   5.468750
+
+
+
+        count        pct
+Arp2_3                  
+01        530  51.757812
+1         494  48.242188
+
+
+
+    count        pct
+CP                  
+1     756  73.828125
+10    268  26.171875
+
+
+
+       count        pct
+Cdc42                  
+1        516  50.390625
+0        508  49.609375
+
+
+
+         count        pct
+Cofilin                  
+0          676  66.015625
+10         348  33.984375
+
+
+
+         count    pct
+Coronin              
+0         1024  100.0
+
+
+
+           count    pct
+Cortactin              
+10          1024  100.0
+
+
+
+      count    pct
+Dia1              
+0      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count    pct
+Ena_Vasp              
+0          1024  100.0
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+1               516  50.390625
+0               508  49.609375
+
+
+
+             count    pct
+IRSp53_Rac1              
+10            1024  100.0
+
+
+
+      count    pct
+LIMK              
+1      1024  100.0
+
+
+
+     count        pct
+PAK                  
+1      516  50.390625
+10     508  49.609375
+
+
+
+      count        pct
+PIP2                  
+1       538  52.539062
+0       486  47.460938
+
+
+
+     count    pct
+PKD              
+10    1024  100.0
+
+
+
+          count       pct
+Profilin                 
+1           968  94.53125
+0            56   5.46875
+
+
+
+      count    pct
+ROCK              
+01     1024  100.0
+
+
+
+      count    pct
+Rac1              
+01     1024  100.0
+
+
+
+      count    pct
+RhoA              
+10     1024  100.0
+
+
+
+     count    pct
+SSH              
+0     1024  100.0
+
+
+
+          count        pct
+Thymosin                  
+01          468  45.703125
+0           442  43.164062
+1           114  11.132812
+
+
+
+          count    pct
+UPSTREAM              
+10         1024  100.0
+
+
+
+      count        pct
+WASP                  
+01      468  45.703125
+1       442  43.164062
+0       114  11.132812
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

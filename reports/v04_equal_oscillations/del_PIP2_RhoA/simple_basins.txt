@@ -1,0 +1,169 @@
+          count        pct
+Actin_BR                  
+10          650  63.476562
+1           374  36.523438
+
+
+
+          count       pct
+Actin_ST                 
+10          888  86.71875
+1           136  13.28125
+
+
+
+        count        pct
+Arp2_3                  
+01        650  63.476562
+1         374  36.523438
+
+
+
+    count    pct
+CP              
+1    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+0        514  50.195312
+1        510  49.804688
+
+
+
+         count        pct
+Cofilin                  
+1          638  62.304688
+10         386  37.695312
+
+
+
+         count        pct
+Coronin                  
+01         779  76.074219
+1          245  23.925781
+
+
+
+           count    pct
+Cortactin              
+10          1024  100.0
+
+
+
+      count    pct
+Dia1              
+0      1024  100.0
+
+
+
+      count    pct
+Dia2              
+10     1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           774  75.585938
+01          250  24.414062
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0               514  50.195312
+1               510  49.804688
+
+
+
+             count    pct
+IRSp53_Rac1              
+10            1024  100.0
+
+
+
+      count        pct
+LIMK                  
+0       643  62.792969
+10      381  37.207031
+
+
+
+     count        pct
+PAK                  
+10     514  50.195312
+1      510  49.804688
+
+
+
+      count    pct
+PIP2              
+0      1024  100.0
+
+
+
+     count    pct
+PKD              
+0     1024  100.0
+
+
+
+          count    pct
+Profilin              
+1          1024  100.0
+
+
+
+      count    pct
+ROCK              
+0      1024  100.0
+
+
+
+      count    pct
+Rac1              
+01     1024  100.0
+
+
+
+      count    pct
+RhoA              
+0      1024  100.0
+
+
+
+     count        pct
+SSH                  
+10     779  76.074219
+1      245  23.925781
+
+
+
+          count        pct
+Thymosin                  
+0           638  62.304688
+10          386  37.695312
+
+
+
+          count    pct
+UPSTREAM              
+10         1024  100.0
+
+
+
+      count        pct
+WASP                  
+1       638  62.304688
+10      386  37.695312
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

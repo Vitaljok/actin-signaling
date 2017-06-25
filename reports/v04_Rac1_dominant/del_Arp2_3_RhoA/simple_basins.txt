@@ -1,0 +1,192 @@
+          count    pct
+ARHGAP22              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_BR              
+0          1024  100.0
+
+
+
+          count        pct
+Actin_ST                  
+0           616  60.156250
+1           251  24.511719
+10          157  15.332031
+
+
+
+        count    pct
+Arp2_3              
+0        1024  100.0
+
+
+
+    count   pct
+CP             
+1     512  50.0
+0     512  50.0
+
+
+
+       count      pct
+Cdc42                
+1        528  51.5625
+0        496  48.4375
+
+
+
+         count        pct
+Cofilin                  
+0          709  69.238281
+10         253  24.707031
+1           62   6.054688
+
+
+
+         count        pct
+Coronin                  
+0          535  52.246094
+10         399  38.964844
+1           90   8.789062
+
+
+
+           count    pct
+Cortactin              
+0           1024  100.0
+
+
+
+      count    pct
+Dia1              
+0      1024  100.0
+
+
+
+      count    pct
+Dia2              
+0      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           607  59.277344
+0           280  27.343750
+10          137  13.378906
+
+
+
+              count      pct
+IRSp53_Cdc42                
+1               528  51.5625
+0               496  48.4375
+
+
+
+             count    pct
+IRSp53_Rac1              
+0             1024  100.0
+
+
+
+      count        pct
+LIMK                  
+0       549  53.613281
+1       269  26.269531
+01      206  20.117188
+
+
+
+      count      pct
+NET1                
+0       528  51.5625
+1       496  48.4375
+
+
+
+     count      pct
+PAK                
+1      528  51.5625
+0      496  48.4375
+
+
+
+      count   pct
+PIP2             
+1       512  50.0
+0       512  50.0
+
+
+
+     count    pct
+PKD              
+0     1024  100.0
+
+
+
+          count        pct
+Profilin                  
+0           594  58.007812
+1           329  32.128906
+01          101   9.863281
+
+
+
+      count    pct
+ROCK              
+0      1024  100.0
+
+
+
+     count    pct
+ROS              
+0     1024  100.0
+
+
+
+      count    pct
+Rac1              
+0      1024  100.0
+
+
+
+      count    pct
+RhoA              
+0      1024  100.0
+
+
+
+     count        pct
+SSH                  
+0      535  52.246094
+01     399  38.964844
+1       90   8.789062
+
+
+
+          count        pct
+Thymosin                  
+10          462  45.117188
+0           351  34.277344
+1           211  20.605469
+
+
+
+      count        pct
+WASP                  
+01      369  36.035156
+1       329  32.128906
+0       326  31.835938
+
+
+
+      count    pct
+WAVE              
+0      1024  100.0
+
+
+

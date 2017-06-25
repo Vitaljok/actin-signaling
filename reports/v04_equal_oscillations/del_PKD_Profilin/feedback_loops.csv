@@ -1,0 +1,6 @@
+type,path
+pos,SSH -> Coronin -> SSH
+pos,WASP -> Arp2_3 -> Cofilin -| Thymosin -| WASP
+pos,WASP -| Thymosin -| WASP
+pos,Thymosin -| Arp2_3 -> Cofilin -| Thymosin
+pos,Thymosin -| Cofilin -| Thymosin

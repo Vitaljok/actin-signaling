@@ -1,0 +1,175 @@
+          count        pct
+Actin_BR                  
+01          532  51.953125
+1           492  48.046875
+
+
+
+          count    pct
+Actin_ST              
+0          1024  100.0
+
+
+
+        count        pct
+Arp2_3                  
+10        532  51.953125
+1         492  48.046875
+
+
+
+    count        pct
+CP                  
+1     487  47.558594
+0     466  45.507812
+01     71   6.933594
+
+
+
+       count        pct
+Cdc42                  
+1        524  51.171875
+0        500  48.828125
+
+
+
+         count        pct
+Cofilin                  
+01         508  49.609375
+1          370  36.132812
+0          146  14.257812
+
+
+
+         count        pct
+Coronin                  
+10         773  75.488281
+1          251  24.511719
+
+
+
+           count    pct
+Cortactin              
+01          1024  100.0
+
+
+
+      count    pct
+Dia1              
+0      1024  100.0
+
+
+
+      count    pct
+Dia2              
+01     1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           771  75.292969
+01          231  22.558594
+0            22   2.148438
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+1               524  51.171875
+0               500  48.828125
+
+
+
+             count    pct
+IRSp53_Rac1              
+01            1024  100.0
+
+
+
+      count        pct
+LIMK                  
+0       629  61.425781
+01      395  38.574219
+
+
+
+     count        pct
+PAK                  
+1      524  51.171875
+01     500  48.828125
+
+
+
+      count        pct
+PIP2                  
+1       537  52.441406
+0       487  47.558594
+
+
+
+     count    pct
+PKD              
+0     1024  100.0
+
+
+
+          count    pct
+Profilin              
+0          1024  100.0
+
+
+
+      count    pct
+ROCK              
+0      1024  100.0
+
+
+
+      count    pct
+Rac1              
+10     1024  100.0
+
+
+
+      count    pct
+RhoA              
+0      1024  100.0
+
+
+
+     count        pct
+SSH                  
+01     773  75.488281
+1      251  24.511719
+
+
+
+          count        pct
+Thymosin                  
+0           565  55.175781
+01          405  39.550781
+1            54   5.273438
+
+
+
+          count    pct
+UPSTREAM              
+01         1024  100.0
+
+
+
+      count        pct
+WASP                  
+1       565  55.175781
+01      405  39.550781
+0        54   5.273438
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

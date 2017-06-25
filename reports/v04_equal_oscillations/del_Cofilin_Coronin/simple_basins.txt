@@ -1,0 +1,171 @@
+          count        pct
+Actin_BR                  
+01          531  51.855469
+1           493  48.144531
+
+
+
+          count        pct
+Actin_ST                  
+1           957  93.457031
+01           67   6.542969
+
+
+
+        count        pct
+Arp2_3                  
+10        531  51.855469
+1         493  48.144531
+
+
+
+    count        pct
+CP                  
+0     514  50.195312
+1     510  49.804688
+
+
+
+       count        pct
+Cdc42                  
+1        530  51.757812
+0        494  48.242188
+
+
+
+         count    pct
+Cofilin              
+0         1024  100.0
+
+
+
+         count    pct
+Coronin              
+0         1024  100.0
+
+
+
+           count    pct
+Cortactin              
+01          1024  100.0
+
+
+
+      count        pct
+Dia1                  
+10      514  50.195312
+0       510  49.804688
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           764  74.609375
+01          260  25.390625
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+1               530  51.757812
+0               494  48.242188
+
+
+
+             count    pct
+IRSp53_Rac1              
+01            1024  100.0
+
+
+
+      count    pct
+LIMK              
+01     1024  100.0
+
+
+
+     count        pct
+PAK                  
+1      530  51.757812
+01     494  48.242188
+
+
+
+      count        pct
+PIP2                  
+1       514  50.195312
+0       510  49.804688
+
+
+
+     count    pct
+PKD              
+01    1024  100.0
+
+
+
+          count        pct
+Profilin                  
+1           957  93.457031
+10           67   6.542969
+
+
+
+      count    pct
+ROCK              
+10     1024  100.0
+
+
+
+      count    pct
+Rac1              
+10     1024  100.0
+
+
+
+      count    pct
+RhoA              
+01     1024  100.0
+
+
+
+     count    pct
+SSH              
+01    1024  100.0
+
+
+
+          count        pct
+Thymosin                  
+01          495  48.339844
+0           349  34.082031
+1           180  17.578125
+
+
+
+          count    pct
+UPSTREAM              
+01         1024  100.0
+
+
+
+      count        pct
+WASP                  
+01      495  48.339844
+1       349  34.082031
+0       180  17.578125
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

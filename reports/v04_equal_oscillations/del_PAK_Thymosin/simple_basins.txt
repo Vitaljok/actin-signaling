@@ -1,0 +1,168 @@
+          count    pct
+Actin_BR              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_ST              
+1          1024  100.0
+
+
+
+        count    pct
+Arp2_3              
+0        1024  100.0
+
+
+
+    count       pct
+CP                 
+1     520  50.78125
+0     504  49.21875
+
+
+
+       count        pct
+Cdc42                  
+0        541  52.832031
+1        483  47.167969
+
+
+
+         count        pct
+Cofilin                  
+0          932  91.015625
+1           49   4.785156
+01          43   4.199219
+
+
+
+         count        pct
+Coronin                  
+01         932  91.015625
+1           92   8.984375
+
+
+
+           count    pct
+Cortactin              
+10          1024  100.0
+
+
+
+      count       pct
+Dia1                 
+0       520  50.78125
+10      504  49.21875
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count    pct
+Ena_Vasp              
+1          1024  100.0
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0               541  52.832031
+1               483  47.167969
+
+
+
+             count    pct
+IRSp53_Rac1              
+10            1024  100.0
+
+
+
+      count        pct
+LIMK                  
+10      932  91.015625
+0        92   8.984375
+
+
+
+     count    pct
+PAK              
+0     1024  100.0
+
+
+
+      count       pct
+PIP2                 
+0       520  50.78125
+1       504  49.21875
+
+
+
+     count        pct
+PKD                  
+10     932  91.015625
+0       92   8.984375
+
+
+
+          count    pct
+Profilin              
+1          1024  100.0
+
+
+
+      count        pct
+ROCK                  
+01      932  91.015625
+0        92   8.984375
+
+
+
+      count    pct
+Rac1              
+01     1024  100.0
+
+
+
+      count    pct
+RhoA              
+10     1024  100.0
+
+
+
+     count        pct
+SSH                  
+10     932  91.015625
+1       92   8.984375
+
+
+
+          count    pct
+Thymosin              
+0          1024  100.0
+
+
+
+          count    pct
+UPSTREAM              
+10         1024  100.0
+
+
+
+      count    pct
+WASP              
+1      1024  100.0
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

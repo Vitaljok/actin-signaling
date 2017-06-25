@@ -1,0 +1,5 @@
+type,path
+pos,Coronin -> SSH -> Coronin
+pos,Coronin -| ROCK -> PKD -| SSH -> Coronin
+pos,PKD -| SSH -| ROCK -> PKD
+pos,Arp2_3 -> CP -| Dia1 -> Profilin -| Arp2_3

@@ -1,0 +1,176 @@
+          count    pct
+Actin_BR              
+0          1024  100.0
+
+
+
+          count        pct
+Actin_ST                  
+1           939  91.699219
+01           85   8.300781
+
+
+
+        count    pct
+Arp2_3              
+0        1024  100.0
+
+
+
+    count        pct
+CP                  
+0     547  53.417969
+1     477  46.582031
+
+
+
+       count        pct
+Cdc42                  
+0        529  51.660156
+1        495  48.339844
+
+
+
+         count        pct
+Cofilin                  
+0          658  64.257812
+10         291  28.417969
+1           75   7.324219
+
+
+
+         count        pct
+Coronin                  
+01         914  89.257812
+1          110  10.742188
+
+
+
+           count    pct
+Cortactin              
+0           1024  100.0
+
+
+
+      count        pct
+Dia1                  
+01      547  53.417969
+0       477  46.582031
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           667  65.136719
+01          355  34.667969
+0             2   0.195312
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0               529  51.660156
+1               495  48.339844
+
+
+
+             count    pct
+IRSp53_Rac1              
+10            1024  100.0
+
+
+
+      count        pct
+LIMK                  
+10      914  89.257812
+0       110  10.742188
+
+
+
+     count    pct
+PAK              
+0     1024  100.0
+
+
+
+      count        pct
+PIP2                  
+1       547  53.417969
+0       477  46.582031
+
+
+
+     count        pct
+PKD                  
+10     914  89.257812
+0      110  10.742188
+
+
+
+          count        pct
+Profilin                  
+1           967  94.433594
+10           57   5.566406
+
+
+
+      count        pct
+ROCK                  
+01      914  89.257812
+0       110  10.742188
+
+
+
+      count    pct
+Rac1              
+01     1024  100.0
+
+
+
+      count    pct
+RhoA              
+10     1024  100.0
+
+
+
+     count        pct
+SSH                  
+10     914  89.257812
+1      110  10.742188
+
+
+
+          count        pct
+Thymosin                  
+0           462  45.117188
+10          455  44.433594
+1           107  10.449219
+
+
+
+          count    pct
+UPSTREAM              
+10         1024  100.0
+
+
+
+      count        pct
+WASP                  
+10      542  52.929688
+1       356  34.765625
+0       126  12.304688
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

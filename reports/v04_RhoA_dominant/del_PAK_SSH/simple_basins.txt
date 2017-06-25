@@ -1,0 +1,181 @@
+          count    pct
+ARHGAP22              
+1          2048  100.0
+
+
+
+          count    pct
+Actin_BR              
+0          2048  100.0
+
+
+
+          count        pct
+Actin_ST                  
+1          1175  57.373047
+0           671  32.763672
+10          202   9.863281
+
+
+
+        count    pct
+Arp2_3              
+0        2048  100.0
+
+
+
+    count        pct
+CP                  
+0    1034  50.488281
+1    1014  49.511719
+
+
+
+       count        pct
+Cdc42                  
+0       1069  52.197266
+1        979  47.802734
+
+
+
+         count    pct
+Cofilin              
+0         2048  100.0
+
+
+
+         count    pct
+Coronin              
+0         2048  100.0
+
+
+
+           count    pct
+Cortactin              
+0           2048  100.0
+
+
+
+      count        pct
+Dia1                  
+1      1034  50.488281
+0      1014  49.511719
+
+
+
+      count    pct
+Dia2              
+1      2048  100.0
+
+
+
+          count    pct
+Ena_Vasp              
+1          2048  100.0
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0              1069  52.197266
+1               979  47.802734
+
+
+
+             count    pct
+IRSp53_Rac1              
+0             2048  100.0
+
+
+
+      count    pct
+LIMK              
+1      2048  100.0
+
+
+
+      count    pct
+NET1              
+1      2048  100.0
+
+
+
+     count    pct
+PAK              
+0     2048  100.0
+
+
+
+      count        pct
+PIP2                  
+1      1034  50.488281
+0      1014  49.511719
+
+
+
+     count    pct
+PKD              
+1     2048  100.0
+
+
+
+          count        pct
+Profilin                  
+1          1175  57.373047
+0           671  32.763672
+01          202   9.863281
+
+
+
+      count    pct
+ROCK              
+1      2048  100.0
+
+
+
+     count    pct
+ROS              
+0     2048  100.0
+
+
+
+      count    pct
+Rac1              
+0      2048  100.0
+
+
+
+      count    pct
+RhoA              
+1      2048  100.0
+
+
+
+     count    pct
+SSH              
+0     2048  100.0
+
+
+
+          count        pct
+Thymosin                  
+01          724  35.351562
+1           671  32.763672
+0           653  31.884766
+
+
+
+      count        pct
+WASP                  
+01      724  35.351562
+0       671  32.763672
+1       653  31.884766
+
+
+
+      count    pct
+WAVE              
+0      2048  100.0
+
+
+

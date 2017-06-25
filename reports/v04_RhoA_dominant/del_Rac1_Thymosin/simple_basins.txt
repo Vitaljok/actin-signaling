@@ -1,0 +1,188 @@
+          count        pct
+ARHGAP22                  
+1          1894  92.480469
+0           154   7.519531
+
+
+
+          count        pct
+Actin_BR                  
+0          1137  55.517578
+1           911  44.482422
+
+
+
+          count       pct
+Actin_ST                 
+1          1520  74.21875
+0           528  25.78125
+
+
+
+        count        pct
+Arp2_3                  
+0        1137  55.517578
+1         911  44.482422
+
+
+
+    count        pct
+CP                  
+1    1034  50.488281
+0    1014  49.511719
+
+
+
+       count        pct
+Cdc42                  
+0       1053  51.416016
+1        995  48.583984
+
+
+
+         count        pct
+Cofilin                  
+0         1432  69.921875
+1          616  30.078125
+
+
+
+         count        pct
+Coronin                  
+0         1894  92.480469
+1          154   7.519531
+
+
+
+           count    pct
+Cortactin              
+0           2048  100.0
+
+
+
+      count        pct
+Dia1                  
+0      1034  50.488281
+1      1014  49.511719
+
+
+
+      count    pct
+Dia2              
+1      2048  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1          2013  98.291016
+0            35   1.708984
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0              1053  51.416016
+1               995  48.583984
+
+
+
+             count    pct
+IRSp53_Rac1              
+0             2048  100.0
+
+
+
+      count        pct
+LIMK                  
+1      1894  92.480469
+0       154   7.519531
+
+
+
+      count        pct
+NET1                  
+1      1053  51.416016
+0       995  48.583984
+
+
+
+     count        pct
+PAK                  
+0     1053  51.416016
+1      995  48.583984
+
+
+
+      count        pct
+PIP2                  
+0      1034  50.488281
+1      1014  49.511719
+
+
+
+     count        pct
+PKD                  
+1     1894  92.480469
+0      154   7.519531
+
+
+
+          count       pct
+Profilin                 
+1          1520  74.21875
+0           528  25.78125
+
+
+
+      count        pct
+ROCK                  
+1      1894  92.480469
+0       154   7.519531
+
+
+
+     count    pct
+ROS              
+0     2048  100.0
+
+
+
+      count    pct
+Rac1              
+0      2048  100.0
+
+
+
+      count    pct
+RhoA              
+1      2048  100.0
+
+
+
+     count        pct
+SSH                  
+0     1894  92.480469
+1      154   7.519531
+
+
+
+          count    pct
+Thymosin              
+0          2048  100.0
+
+
+
+      count       pct
+WASP                 
+1      1520  74.21875
+0       528  25.78125
+
+
+
+      count    pct
+WAVE              
+0      2048  100.0
+
+
+

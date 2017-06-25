@@ -1,0 +1,61 @@
+type,path
+pos,PKD -| Cortactin -> Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+pos,PKD -| Cortactin -> Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD
+pos,PKD -| Cortactin -> Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD
+pos,PKD -| Cortactin -> Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+pos,PKD -| Cortactin -> WASP -> Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+pos,PKD -| Cortactin -> WASP -> Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD
+pos,PKD -| Cortactin -> WASP -> Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD
+pos,PKD -| Cortactin -> WASP -> Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+pos,PKD -| Cortactin -> WASP -| Thymosin -| Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+pos,PKD -| Cortactin -> WASP -| Thymosin -| Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD
+pos,PKD -| Cortactin -> WASP -| Thymosin -| Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD
+pos,PKD -| Cortactin -> WASP -| Thymosin -| Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+neg,PKD -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+neg,PKD -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD
+neg,PKD -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD
+neg,PKD -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+neg,PKD -| Cortactin -> WASP -> Profilin -| Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+neg,PKD -| Cortactin -> WASP -> Profilin -| Arp2_3 -> Rac1 -> SSH -| ROCK -> PKD
+neg,PKD -| Cortactin -> WASP -> Profilin -| Arp2_3 -> Rac1 -> SSH -> Coronin -| ROCK -> PKD
+neg,PKD -| Cortactin -> WASP -> Profilin -| Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+pos,PKD -| SSH -| ROCK -> PKD
+pos,PKD -| SSH -> Coronin -| ROCK -> PKD
+neg,PKD -| SSH -> Coronin -| Cortactin -> Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+neg,PKD -| SSH -> Coronin -| Cortactin -> Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+neg,PKD -| SSH -> Coronin -| Cortactin -> WASP -> Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+neg,PKD -| SSH -> Coronin -| Cortactin -> WASP -> Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+neg,PKD -| SSH -> Coronin -| Cortactin -> WASP -| Thymosin -| Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+neg,PKD -| SSH -> Coronin -| Cortactin -> WASP -| Thymosin -| Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+pos,PKD -| SSH -> Coronin -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+pos,PKD -| SSH -> Coronin -| Cortactin -> WASP -| Thymosin -| Profilin -| Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+pos,PKD -| SSH -> Coronin -| Cortactin -> WASP -> Profilin -| Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+pos,PKD -| SSH -> Coronin -| Cortactin -> WASP -> Profilin -| Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+neg,PKD -| SSH -> Coronin -| Arp2_3 -> Rac1 -| RhoA -> ROCK -> PKD
+neg,PKD -| SSH -> Coronin -| Arp2_3 -> Rac1 -> PAK -| NET1 -> RhoA -> ROCK -> PKD
+pos,Thymosin -| Arp2_3 -> Rac1 -> Cortactin -> WASP -| Thymosin
+neg,Thymosin -| Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -| Thymosin
+pos,Thymosin -| Arp2_3 -> Rac1 -> WASP -| Thymosin
+pos,Thymosin -| WASP -| Thymosin
+neg,Thymosin -| Profilin -| Arp2_3 -> Rac1 -> Cortactin -> WASP -| Thymosin
+pos,Thymosin -| Profilin -| Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -| Thymosin
+neg,Thymosin -| Profilin -| Arp2_3 -> Rac1 -> WASP -| Thymosin
+pos,NET1 -> RhoA -> ROCK -> ARHGAP22 -| Rac1 -> PAK -| NET1
+pos,ROCK -> ARHGAP22 -| Rac1 -| RhoA -> ROCK
+pos,ROCK -> ARHGAP22 -| Rac1 -> SSH -| ROCK
+pos,ROCK -> ARHGAP22 -| Rac1 -> SSH -> Coronin -| ROCK
+neg,Profilin -| Arp2_3 -> Rac1 -> WAVE -> Profilin
+neg,Profilin -| Arp2_3 -> Rac1 -> Cortactin -> WASP -> Profilin
+pos,Profilin -| Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP -> Profilin
+neg,Profilin -| Arp2_3 -> Rac1 -> WASP -> Profilin
+neg,Profilin -| Arp2_3 -> Rac1 -> IRSp53_Rac1 -> WAVE -> Profilin
+pos,PAK -> Arp2_3 -> Rac1 -> PAK
+pos,WAVE -> Arp2_3 -> Rac1 -> WAVE
+pos,WAVE -> Arp2_3 -> Rac1 -> IRSp53_Rac1 -> WAVE
+pos,WASP -> Arp2_3 -> Rac1 -> Cortactin -> WASP
+neg,WASP -> Arp2_3 -> Rac1 -> SSH -> Coronin -| Cortactin -> WASP
+pos,WASP -> Arp2_3 -> Rac1 -> WASP
+neg,SSH -> Coronin -| Cortactin -> Arp2_3 -> Rac1 -> SSH
+neg,SSH -> Coronin -| Arp2_3 -> Rac1 -> SSH
+pos,SSH -> Coronin -> SSH
+pos,Cortactin -> Arp2_3 -> Rac1 -> Cortactin

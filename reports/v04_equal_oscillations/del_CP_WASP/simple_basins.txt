@@ -1,0 +1,177 @@
+          count        pct
+Actin_BR                  
+10          980  95.703125
+0            38   3.710938
+1             6   0.585938
+
+
+
+          count        pct
+Actin_ST                  
+1           524  51.171875
+01          500  48.828125
+
+
+
+        count        pct
+Arp2_3                  
+01        980  95.703125
+0          38   3.710938
+1           6   0.585938
+
+
+
+    count    pct
+CP              
+0    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+1        530  51.757812
+0        494  48.242188
+
+
+
+         count        pct
+Cofilin                  
+10         530  51.757812
+0          448  43.750000
+1           46   4.492188
+
+
+
+         count        pct
+Coronin                  
+01         925  90.332031
+1           99   9.667969
+
+
+
+           count    pct
+Cortactin              
+10          1024  100.0
+
+
+
+      count    pct
+Dia1              
+01     1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           530  51.757812
+01          441  43.066406
+0            53   5.175781
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+1               530  51.757812
+0               494  48.242188
+
+
+
+             count    pct
+IRSp53_Rac1              
+10            1024  100.0
+
+
+
+      count        pct
+LIMK                  
+10      925  90.332031
+0        99   9.667969
+
+
+
+     count        pct
+PAK                  
+1      530  51.757812
+10     494  48.242188
+
+
+
+      count        pct
+PIP2                  
+0       524  51.171875
+1       500  48.828125
+
+
+
+     count        pct
+PKD                  
+10     925  90.332031
+0       99   9.667969
+
+
+
+          count        pct
+Profilin                  
+1           524  51.171875
+10          500  48.828125
+
+
+
+      count        pct
+ROCK                  
+01      925  90.332031
+0        99   9.667969
+
+
+
+      count    pct
+Rac1              
+01     1024  100.0
+
+
+
+      count    pct
+RhoA              
+10     1024  100.0
+
+
+
+     count        pct
+SSH                  
+10     925  90.332031
+1       99   9.667969
+
+
+
+          count        pct
+Thymosin                  
+10          530  51.757812
+1           448  43.750000
+0            46   4.492188
+
+
+
+          count    pct
+UPSTREAM              
+10         1024  100.0
+
+
+
+      count    pct
+WASP              
+0      1024  100.0
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+
