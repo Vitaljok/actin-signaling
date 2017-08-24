@@ -42,7 +42,7 @@ def build_rules():
     G.add_weighted_edges_from(get_edges(NET1, [], [PAK]))    
     rules += "1: NET1* = not PAK \n"     
     
-    G.add_weighted_edges_from(get_edges(RhoA, [NET1], [Rac1]))
+    G.add_weighted_edges_from(get_edges(RhoA, [NET1], [ROS]))
     rules += "1: RhoA* = not ROS and NET1 \n"
     
     G.add_weighted_edges_from(get_edges(Thymosin, [], [WASP, Cofilin]))
