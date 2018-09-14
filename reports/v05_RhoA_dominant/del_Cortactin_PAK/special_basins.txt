@@ -1,0 +1,13 @@
+                   count    pct
+Actin_BR Actin_ST              
+0        1          1024  100.0
+
+
+
+           count        pct
+Rac1 RhoA                  
+0    1       919  89.746094
+1    1       105  10.253906
+
+
+

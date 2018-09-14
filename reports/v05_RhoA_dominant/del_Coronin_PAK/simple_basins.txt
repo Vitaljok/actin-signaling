@@ -1,0 +1,175 @@
+          count    pct
+ARHGAP22              
+1          1024  100.0
+
+
+
+          count    pct
+Actin_BR              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_ST              
+1          1024  100.0
+
+
+
+        count    pct
+Arp2_3              
+0        1024  100.0
+
+
+
+    count    pct
+CP              
+0    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+0        516  50.390625
+1        508  49.609375
+
+
+
+         count    pct
+Cofilin              
+0         1024  100.0
+
+
+
+         count    pct
+Coronin              
+0         1024  100.0
+
+
+
+           count    pct
+Cortactin              
+0           1024  100.0
+
+
+
+      count    pct
+Dia1              
+1      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count    pct
+Ena_Vasp              
+1          1024  100.0
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0               516  50.390625
+1               508  49.609375
+
+
+
+             count    pct
+IRSp53_Rac1              
+0             1024  100.0
+
+
+
+      count    pct
+LIMK              
+1      1024  100.0
+
+
+
+      count    pct
+NET1              
+1      1024  100.0
+
+
+
+     count    pct
+PAK              
+0     1024  100.0
+
+
+
+      count        pct
+PIP2                  
+1       516  50.390625
+0       508  49.609375
+
+
+
+     count    pct
+PKD              
+1     1024  100.0
+
+
+
+          count    pct
+Profilin              
+1          1024  100.0
+
+
+
+      count    pct
+ROCK              
+1      1024  100.0
+
+
+
+     count    pct
+ROS              
+0     1024  100.0
+
+
+
+      count    pct
+Rac1              
+0      1024  100.0
+
+
+
+      count    pct
+RhoA              
+1      1024  100.0
+
+
+
+     count    pct
+SSH              
+0     1024  100.0
+
+
+
+          count        pct
+Thymosin                  
+10          349  34.082031
+0           340  33.203125
+1           335  32.714844
+
+
+
+      count        pct
+WASP                  
+10      349  34.082031
+1       340  33.203125
+0       335  32.714844
+
+
+
+      count    pct
+WAVE              
+0      1024  100.0
+
+
+

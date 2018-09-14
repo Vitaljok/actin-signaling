@@ -1,0 +1,188 @@
+          count        pct
+ARHGAP22                  
+1           937  91.503906
+0            87   8.496094
+
+
+
+          count    pct
+Actin_BR              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_ST              
+1          1024  100.0
+
+
+
+        count    pct
+Arp2_3              
+0        1024  100.0
+
+
+
+    count    pct
+CP              
+0    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+1        539  52.636719
+0        485  47.363281
+
+
+
+         count    pct
+Cofilin              
+0         1024  100.0
+
+
+
+         count        pct
+Coronin                  
+0          937  91.503906
+1           87   8.496094
+
+
+
+           count        pct
+Cortactin                  
+0            937  91.503906
+1             87   8.496094
+
+
+
+      count    pct
+Dia1              
+1      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           989  96.582031
+01           21   2.050781
+0            14   1.367188
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+1               539  52.636719
+0               485  47.363281
+
+
+
+             count        pct
+IRSp53_Rac1                  
+0              937  91.503906
+1               87   8.496094
+
+
+
+      count        pct
+LIMK                  
+1       937  91.503906
+0        87   8.496094
+
+
+
+      count    pct
+NET1              
+1      1024  100.0
+
+
+
+     count    pct
+PAK              
+0     1024  100.0
+
+
+
+      count        pct
+PIP2                  
+0       543  53.027344
+1       481  46.972656
+
+
+
+     count        pct
+PKD                  
+1      937  91.503906
+0       87   8.496094
+
+
+
+          count    pct
+Profilin              
+1          1024  100.0
+
+
+
+      count        pct
+ROCK                  
+1       937  91.503906
+0        87   8.496094
+
+
+
+     count        pct
+ROS                  
+0      937  91.503906
+1       87   8.496094
+
+
+
+      count        pct
+Rac1                  
+0       937  91.503906
+1        87   8.496094
+
+
+
+      count    pct
+RhoA              
+1      1024  100.0
+
+
+
+     count        pct
+SSH                  
+0      937  91.503906
+1       87   8.496094
+
+
+
+          count        pct
+Thymosin                  
+10          388  37.890625
+1           343  33.496094
+0           293  28.613281
+
+
+
+      count        pct
+WASP                  
+10      388  37.890625
+0       343  33.496094
+1       293  28.613281
+
+
+
+      count        pct
+WAVE                  
+0       937  91.503906
+1        87   8.496094
+
+
+

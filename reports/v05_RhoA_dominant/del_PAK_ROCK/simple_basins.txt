@@ -1,0 +1,179 @@
+          count    pct
+ARHGAP22              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_BR              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_ST              
+1          1024  100.0
+
+
+
+        count    pct
+Arp2_3              
+0        1024  100.0
+
+
+
+    count    pct
+CP              
+0    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+0        547  53.417969
+1        477  46.582031
+
+
+
+         count        pct
+Cofilin                  
+0          592  57.812500
+1          233  22.753906
+01         199  19.433594
+
+
+
+         count    pct
+Coronin              
+1         1024  100.0
+
+
+
+           count    pct
+Cortactin              
+1           1024  100.0
+
+
+
+      count    pct
+Dia1              
+1      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1           664  64.843750
+10          253  24.707031
+0           107  10.449219
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0               547  53.417969
+1               477  46.582031
+
+
+
+             count    pct
+IRSp53_Rac1              
+1             1024  100.0
+
+
+
+      count    pct
+LIMK              
+0      1024  100.0
+
+
+
+      count    pct
+NET1              
+1      1024  100.0
+
+
+
+     count    pct
+PAK              
+0     1024  100.0
+
+
+
+      count        pct
+PIP2                  
+0       525  51.269531
+1       499  48.730469
+
+
+
+     count    pct
+PKD              
+0     1024  100.0
+
+
+
+          count    pct
+Profilin              
+1          1024  100.0
+
+
+
+      count    pct
+ROCK              
+0      1024  100.0
+
+
+
+     count    pct
+ROS              
+1     1024  100.0
+
+
+
+      count    pct
+Rac1              
+1      1024  100.0
+
+
+
+      count    pct
+RhoA              
+1      1024  100.0
+
+
+
+     count    pct
+SSH              
+1     1024  100.0
+
+
+
+          count        pct
+Thymosin                  
+01          457  44.628906
+0           420  41.015625
+1           147  14.355469
+
+
+
+      count        pct
+WASP                  
+01      457  44.628906
+1       420  41.015625
+0       147  14.355469
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+

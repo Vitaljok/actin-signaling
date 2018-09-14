@@ -1,0 +1,190 @@
+          count        pct
+ARHGAP22                  
+1           941  91.894531
+0            83   8.105469
+
+
+
+          count    pct
+Actin_BR              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_ST              
+0          1024  100.0
+
+
+
+        count    pct
+Arp2_3              
+0        1024  100.0
+
+
+
+    count    pct
+CP              
+0    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+1        514  50.195312
+0        510  49.804688
+
+
+
+         count        pct
+Cofilin                  
+0          981  95.800781
+1           41   4.003906
+10           2   0.195312
+
+
+
+         count        pct
+Coronin                  
+0          941  91.894531
+1           83   8.105469
+
+
+
+           count        pct
+Cortactin                  
+0            941  91.894531
+1             83   8.105469
+
+
+
+      count    pct
+Dia1              
+1      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1          1011  98.730469
+01            9   0.878906
+0             4   0.390625
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+1               514  50.195312
+0               510  49.804688
+
+
+
+             count        pct
+IRSp53_Rac1                  
+0              941  91.894531
+1               83   8.105469
+
+
+
+      count        pct
+LIMK                  
+1       941  91.894531
+0        83   8.105469
+
+
+
+      count    pct
+NET1              
+1      1024  100.0
+
+
+
+     count    pct
+PAK              
+0     1024  100.0
+
+
+
+      count       pct
+PIP2                 
+1       520  50.78125
+0       504  49.21875
+
+
+
+     count        pct
+PKD                  
+1      941  91.894531
+0       83   8.105469
+
+
+
+          count    pct
+Profilin              
+0          1024  100.0
+
+
+
+      count        pct
+ROCK                  
+1       941  91.894531
+0        83   8.105469
+
+
+
+     count        pct
+ROS                  
+0      941  91.894531
+1       83   8.105469
+
+
+
+      count        pct
+Rac1                  
+0       941  91.894531
+1        83   8.105469
+
+
+
+      count    pct
+RhoA              
+1      1024  100.0
+
+
+
+     count        pct
+SSH                  
+0      941  91.894531
+1       83   8.105469
+
+
+
+          count        pct
+Thymosin                  
+0           387  37.792969
+10          338  33.007812
+1           299  29.199219
+
+
+
+      count        pct
+WASP                  
+1       387  37.792969
+10      338  33.007812
+0       299  29.199219
+
+
+
+      count        pct
+WAVE                  
+0       941  91.894531
+1        83   8.105469
+
+
+

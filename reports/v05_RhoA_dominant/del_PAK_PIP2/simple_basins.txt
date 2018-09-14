@@ -1,0 +1,188 @@
+          count        pct
+ARHGAP22                  
+1           943  92.089844
+0            81   7.910156
+
+
+
+          count    pct
+Actin_BR              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_ST              
+1          1024  100.0
+
+
+
+        count    pct
+Arp2_3              
+0        1024  100.0
+
+
+
+    count    pct
+CP              
+0    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+0        531  51.855469
+1        493  48.144531
+
+
+
+         count        pct
+Cofilin                  
+0          943  92.089844
+1           76   7.421875
+10           5   0.488281
+
+
+
+         count        pct
+Coronin                  
+0          943  92.089844
+1           81   7.910156
+
+
+
+           count        pct
+Cortactin                  
+0            943  92.089844
+1             81   7.910156
+
+
+
+      count    pct
+Dia1              
+1      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1          1020  99.609375
+01            4   0.390625
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0               531  51.855469
+1               493  48.144531
+
+
+
+             count        pct
+IRSp53_Rac1                  
+0              943  92.089844
+1               81   7.910156
+
+
+
+      count        pct
+LIMK                  
+1       943  92.089844
+0        81   7.910156
+
+
+
+      count    pct
+NET1              
+1      1024  100.0
+
+
+
+     count    pct
+PAK              
+0     1024  100.0
+
+
+
+      count    pct
+PIP2              
+0      1024  100.0
+
+
+
+     count        pct
+PKD                  
+1      943  92.089844
+0       81   7.910156
+
+
+
+          count    pct
+Profilin              
+1          1024  100.0
+
+
+
+      count        pct
+ROCK                  
+1       943  92.089844
+0        81   7.910156
+
+
+
+     count        pct
+ROS                  
+0      943  92.089844
+1       81   7.910156
+
+
+
+      count        pct
+Rac1                  
+0       943  92.089844
+1        81   7.910156
+
+
+
+      count    pct
+RhoA              
+1      1024  100.0
+
+
+
+     count        pct
+SSH                  
+0      943  92.089844
+1       81   7.910156
+
+
+
+          count        pct
+Thymosin                  
+1           524  51.171875
+0           318  31.054688
+10          182  17.773438
+
+
+
+      count        pct
+WASP                  
+0       524  51.171875
+1       318  31.054688
+10      182  17.773438
+
+
+
+      count        pct
+WAVE                  
+0       943  92.089844
+1        81   7.910156
+
+
+

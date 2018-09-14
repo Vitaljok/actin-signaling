@@ -1,0 +1,175 @@
+          count    pct
+ARHGAP22              
+1          1024  100.0
+
+
+
+          count    pct
+Actin_BR              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_ST              
+1          1024  100.0
+
+
+
+        count    pct
+Arp2_3              
+0        1024  100.0
+
+
+
+    count    pct
+CP              
+0    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+1        529  51.660156
+0        495  48.339844
+
+
+
+         count    pct
+Cofilin              
+0         1024  100.0
+
+
+
+         count    pct
+Coronin              
+0         1024  100.0
+
+
+
+           count    pct
+Cortactin              
+0           1024  100.0
+
+
+
+      count    pct
+Dia1              
+1      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count    pct
+Ena_Vasp              
+1          1024  100.0
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+1               529  51.660156
+0               495  48.339844
+
+
+
+             count    pct
+IRSp53_Rac1              
+0             1024  100.0
+
+
+
+      count    pct
+LIMK              
+1      1024  100.0
+
+
+
+      count    pct
+NET1              
+1      1024  100.0
+
+
+
+     count    pct
+PAK              
+0     1024  100.0
+
+
+
+      count        pct
+PIP2                  
+1       532  51.953125
+0       492  48.046875
+
+
+
+     count    pct
+PKD              
+1     1024  100.0
+
+
+
+          count    pct
+Profilin              
+1          1024  100.0
+
+
+
+      count    pct
+ROCK              
+1      1024  100.0
+
+
+
+     count    pct
+ROS              
+0     1024  100.0
+
+
+
+      count    pct
+Rac1              
+0      1024  100.0
+
+
+
+      count    pct
+RhoA              
+1      1024  100.0
+
+
+
+     count    pct
+SSH              
+0     1024  100.0
+
+
+
+          count        pct
+Thymosin                  
+01          366  35.742188
+0           364  35.546875
+1           294  28.710938
+
+
+
+      count        pct
+WASP                  
+01      366  35.742188
+1       364  35.546875
+0       294  28.710938
+
+
+
+      count    pct
+WAVE              
+0      1024  100.0
+
+
+

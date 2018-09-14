@@ -1,0 +1,183 @@
+          count    pct
+ARHGAP22              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_BR              
+0          1024  100.0
+
+
+
+          count    pct
+Actin_ST              
+1          1024  100.0
+
+
+
+        count    pct
+Arp2_3              
+0        1024  100.0
+
+
+
+    count    pct
+CP              
+0    1024  100.0
+
+
+
+       count        pct
+Cdc42                  
+0        530  51.757812
+1        494  48.242188
+
+
+
+         count      pct
+Cofilin                
+0          976  95.3125
+1           48   4.6875
+
+
+
+         count        pct
+Coronin                  
+0          929  90.722656
+1           95   9.277344
+
+
+
+           count    pct
+Cortactin              
+1           1024  100.0
+
+
+
+      count    pct
+Dia1              
+1      1024  100.0
+
+
+
+      count    pct
+Dia2              
+1      1024  100.0
+
+
+
+          count        pct
+Ena_Vasp                  
+1          1011  98.730469
+10            9   0.878906
+0             4   0.390625
+
+
+
+              count        pct
+IRSp53_Cdc42                  
+0               530  51.757812
+1               494  48.242188
+
+
+
+             count    pct
+IRSp53_Rac1              
+1             1024  100.0
+
+
+
+      count        pct
+LIMK                  
+1       929  90.722656
+0        95   9.277344
+
+
+
+      count    pct
+NET1              
+1      1024  100.0
+
+
+
+     count    pct
+PAK              
+0     1024  100.0
+
+
+
+      count        pct
+PIP2                  
+1       529  51.660156
+0       495  48.339844
+
+
+
+     count        pct
+PKD                  
+1      929  90.722656
+0       95   9.277344
+
+
+
+          count    pct
+Profilin              
+1          1024  100.0
+
+
+
+      count        pct
+ROCK                  
+1       929  90.722656
+0        95   9.277344
+
+
+
+     count    pct
+ROS              
+1     1024  100.0
+
+
+
+      count    pct
+Rac1              
+1      1024  100.0
+
+
+
+      count    pct
+RhoA              
+1      1024  100.0
+
+
+
+     count        pct
+SSH                  
+0      929  90.722656
+1       95   9.277344
+
+
+
+          count        pct
+Thymosin                  
+10          482  47.070312
+0           404  39.453125
+1           138  13.476562
+
+
+
+      count        pct
+WASP                  
+10      482  47.070312
+1       404  39.453125
+0       138  13.476562
+
+
+
+      count    pct
+WAVE              
+1      1024  100.0
+
+
+
